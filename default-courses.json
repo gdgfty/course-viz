@@ -1,0 +1,4511 @@
+{
+  "courses": [
+    {
+      "course_code": "PHE 1015",
+      "course_name": "体育-太极拳与体适能",
+      "course_department": "PHE",
+      "classes": [
+        {
+          "class_id": "1095",
+          "teachers": ["白刚 (Gang BAI)"],
+          "time_periods": [
+            {
+              "start_date": "2026/03/03",
+              "end_date": "2026/06/16",
+              "weekday": "星期二",
+              "start_time": "16:10",
+              "end_time": "17:45"
+            }
+          ],
+          "classroom": "云谷校区田径场、云谷校区体育场104健身教室"
+        }
+      ]
+    },
+    {
+      "course_code": "PHE 1018",
+      "course_name": "体育-器械健身基础",
+      "course_department": "PHE",
+      "classes": [
+        {
+          "class_id": "1114",
+          "teachers": ["弓烨弘 (Yehong GONG)"],
+          "time_periods": [
+            {
+              "start_date": "2026/03/04",
+              "end_date": "2026/06/17",
+              "weekday": "星期三",
+              "start_time": "18:30",
+              "end_time": "20:05"
+            }
+          ],
+          "classroom": "云谷校区体育场104健身教室"
+        },
+        {
+          "class_id": "1115",
+          "teachers": ["弓烨弘 (Yehong GONG)"],
+          "time_periods": [
+            {
+              "start_date": "2026/03/05",
+              "end_date": "2026/06/18",
+              "weekday": "星期四",
+              "start_time": "16:10",
+              "end_time": "17:45"
+            }
+          ],
+          "classroom": "云谷校区体育场104健身教室"
+        }
+      ]
+    },
+    {
+      "course_code": "PHE 1019",
+      "course_name": "体育-流行舞",
+      "course_department": "PHE",
+      "classes": [
+        {
+          "class_id": "1116",
+          "teachers": ["张烨 (Ye ZHANG)"],
+          "time_periods": [
+            {
+              "start_date": "2026/03/03",
+              "end_date": "2026/06/16",
+              "weekday": "星期二",
+              "start_time": "18:30",
+              "end_time": "20:05"
+            }
+          ],
+          "classroom": "云谷校区H5-105舞蹈室"
+        }
+      ]
+    },
+    {
+      "course_code": "PHE 1021",
+      "course_name": "体育-乒乓球（中级）",
+      "course_department": "PHE",
+      "classes": [
+        {
+          "class_id": "1133",
+          "teachers": ["白刚 (Gang BAI)"],
+          "time_periods": [
+            {
+              "start_date": "2026/03/02",
+              "end_date": "2026/06/15",
+              "weekday": "星期一",
+              "start_time": "18:30",
+              "end_time": "20:05"
+            }
+          ],
+          "classroom": "云谷校区C19乒乓球室"
+        }
+      ]
+    },
+    {
+      "course_code": "PHE 1022",
+      "course_name": "体育-网球（中级）",
+      "course_department": "PHE",
+      "classes": [
+        {
+          "class_id": "1134",
+          "teachers": ["白刚 (Gang BAI)"],
+          "time_periods": [
+            {
+              "start_date": "2026/03/05",
+              "end_date": "2026/06/18",
+              "weekday": "星期四",
+              "start_time": "18:30",
+              "end_time": "20:05"
+            }
+          ],
+          "classroom": "云谷校区网球场"
+        }
+      ]
+    },
+    {
+      "course_code": "PHE 1023",
+      "course_name": "体育-三路长拳与体适能",
+      "course_department": "PHE",
+      "classes": [
+        {
+          "class_id": "1135",
+          "teachers": ["白刚 (Gang BAI)"],
+          "time_periods": [
+            {
+              "start_date": "2026/03/02",
+              "end_date": "2026/06/15",
+              "weekday": "星期一",
+              "start_time": "13:30",
+              "end_time": "15:05"
+            }
+          ],
+          "classroom": "云谷校区田径场、云谷校区体育场104健身教室"
+        }
+      ]
+    },
+    {
+      "course_code": "PHE 1024",
+      "course_name": "体育-排球（初级）",
+      "course_department": "PHE",
+      "classes": [
+        {
+          "class_id": "1142",
+          "teachers": ["白刚 (Gang BAI)"],
+          "time_periods": [
+            {
+              "start_date": "2026/03/04",
+              "end_date": "2026/06/17",
+              "weekday": "星期三",
+              "start_time": "18:30",
+              "end_time": "20:05"
+            }
+          ],
+          "classroom": "云谷校区排球场"
+        }
+      ]
+    },
+    {
+      "course_code": "SOC 1005",
+      "course_name": "心理学与生活",
+      "course_department": "SOC",
+      "classes": [
+        {
+          "class_id": "1020",
+          "teachers": ["汪晨波"],
+          "time_periods": [
+            {
+              "start_date": "2026/03/02",
+              "end_date": "2026/05/11",
+              "weekday": "星期一",
+              "start_time": "18:30",
+              "end_time": "20:55"
+            }
+          ],
+          "classroom": "云谷校区E13-131"
+        }
+      ]
+    },
+    {
+      "course_code": "SOC 1007",
+      "course_name": "微观经济学",
+      "course_department": "SOC",
+      "classes": [
+        {
+          "class_id": "1025",
+          "teachers": ["叶德磊"],
+          "time_periods": [
+            {
+              "start_date": "2026/03/05",
+              "end_date": "2026/05/14",
+              "weekday": "星期四",
+              "start_time": "18:30",
+              "end_time": "20:55"
+            }
+          ],
+          "classroom": "云谷校区E13-115"
+        }
+      ]
+    },
+    {
+      "course_code": "SOC 1009",
+      "course_name": "国际政治概论",
+      "course_department": "SOC",
+      "classes": [
+        {
+          "class_id": "1037",
+          "teachers": ["杨一帆"],
+          "time_periods": [
+            {
+              "start_date": "2026/03/05",
+              "end_date": "2026/05/14",
+              "weekday": "星期四",
+              "start_time": "18:30",
+              "end_time": "20:55"
+            }
+          ],
+          "classroom": "云谷校区E13-117"
+        }
+      ]
+    },
+    {
+      "course_code": "SOC 1011",
+      "course_name": "经济政策与实践",
+      "course_department": "SOC",
+      "classes": [
+        {
+          "class_id": "1043",
+          "teachers": ["戴文标 (Wenbiao DAI)"],
+          "time_periods": [
+            {
+              "start_date": "2026/03/03",
+              "end_date": "2026/06/16",
+              "weekday": "星期二",
+              "start_time": "18:30",
+              "end_time": "20:05"
+            }
+          ],
+          "classroom": "云谷校区E13-111"
+        }
+      ]
+    },
+    {
+      "course_code": "SOC 1013",
+      "course_name": "全球化和中国发展",
+      "course_department": "SOC",
+      "classes": [
+        {
+          "class_id": "1136",
+          "teachers": ["戴文标 (Wenbiao DAI)", "金光耀"],
+          "time_periods": [
+            {
+              "start_date": "2026/03/05",
+              "end_date": "2026/06/18",
+              "weekday": "星期四",
+              "start_time": "13:30",
+              "end_time": "15:55"
+            }
+          ],
+          "classroom": "云谷校区E13-204"
+        },
+        {
+          "class_id": "1137",
+          "teachers": ["戴文标 (Wenbiao DAI)", "金光耀"],
+          "time_periods": [
+            {
+              "start_date": "2026/03/05",
+              "end_date": "2026/06/18",
+              "weekday": "星期四",
+              "start_time": "18:30",
+              "end_time": "20:55"
+            }
+          ],
+          "classroom": "云谷校区E13-204"
+        },
+        {
+          "class_id": "1138",
+          "teachers": ["戴文标 (Wenbiao DAI)", "金光耀"],
+          "time_periods": [
+            {
+              "start_date": "2026/03/04",
+              "end_date": "2026/06/17",
+              "weekday": "星期三",
+              "start_time": "18:30",
+              "end_time": "20:55"
+            }
+          ],
+          "classroom": "云谷校区E13-113"
+        }
+      ]
+    },
+    {
+      "course_code": "SOC 1014",
+      "course_name": "认知心理学与神经科学：大脑思维与记忆之间的关联机制分析",
+      "course_department": "SOC",
+      "classes": [
+        {
+          "class_id": "1338",
+          "teachers": ["仇建 (Jian QIU)"],
+          "time_periods": [
+            {
+              "start_date": "2026/03/14",
+              "end_date": "2026/05/23",
+              "weekday": "星期六",
+              "start_time": "09:00",
+              "end_time": "11:15"
+            }
+          ],
+          "classroom": "云谷校区E13-111"
+        }
+      ]
+    },
+    {
+      "course_code": "SOC 1015",
+      "course_name": "数字经济与发展经济：碳减排与共享机制的可持续政策实践",
+      "course_department": "SOC",
+      "classes": [
+        {
+          "class_id": "1339",
+          "teachers": ["仇建 (Jian QIU)"],
+          "time_periods": [
+            {
+              "start_date": "2026/03/14",
+              "end_date": "2026/05/23",
+              "weekday": "星期六",
+              "start_time": "09:00",
+              "end_time": "11:15"
+            }
+          ],
+          "classroom": "云谷校区E13-112"
+        }
+      ]
+    },
+    {
+      "course_code": "SCI 1002",
+      "course_name": "AI+科学",
+      "course_department": "SCI",
+      "classes": [
+        {
+          "class_id": "1117",
+          "teachers": ["吴泰霖 (Tailin WU)"],
+          "time_periods": [
+            {
+              "start_date": "2026/03/05",
+              "end_date": "2026/04/23",
+              "weekday": "星期四",
+              "start_time": "18:30",
+              "end_time": "20:05"
+            }
+          ],
+          "classroom": "云谷校区E13-202"
+        }
+      ]
+    },
+    {
+      "course_code": "SCI 1003",
+      "course_name": "人工智能大模型导论",
+      "course_department": "SCI",
+      "classes": [
+        {
+          "class_id": "1120",
+          "teachers": ["张驰 (Chi ZHANG)"],
+          "time_periods": [
+            {
+              "start_date": "2026/03/02",
+              "end_date": "2026/06/15",
+              "weekday": "星期一",
+              "start_time": "18:30",
+              "end_time": "20:55"
+            }
+          ],
+          "classroom": "云谷校区E13-113"
+        }
+      ]
+    },
+    {
+      "course_code": "SCI 1006",
+      "course_name": "人工智能学术应用基础",
+      "course_department": "SCI",
+      "classes": [
+        {
+          "class_id": "1143",
+          "teachers": ["何斌 (Bin HE)", "邹云志 (Yunzhi ZOU)", "权新峰 (Xinfeng QUAN)", "张雅彬 (Yabin ZHANG)", "GUOLONG LAI", "林白 (Bai LIN)", "笪舒扬 (Shuyang DA)", "王璟 (Jing WANG)", "俞韫烨 (Yunye YU)", "王潇鸿 (Xiaohong WANG)", "张岳 (Yue ZHANG)", "仇建 (Jian QIU)"],
+          "time_periods": [
+            {
+              "start_date": "2026/03/03",
+              "end_date": "2026/05/19",
+              "weekday": "星期二",
+              "start_time": "13:30",
+              "end_time": "15:05"
+            }
+          ],
+          "classroom": "云谷校区E13-109"
+        }
+      ]
+    },
+    {
+      "course_code": "POL 1000",
+      "course_name": "中国近现代史纲要",
+      "course_department": "POL",
+      "classes": [
+        {
+          "class_id": "1002",
+          "teachers": ["潘雨 (Yu PAN)"],
+          "time_periods": [
+            {
+              "start_date": "2026/03/06",
+              "end_date": "2026/06/19",
+              "weekday": "星期五",
+              "start_time": "13:30",
+              "end_time": "15:55"
+            }
+          ],
+          "classroom": "云谷校区E13-130"
+        },
+        {
+          "class_id": "1003",
+          "teachers": ["潘雨 (Yu PAN)"],
+          "time_periods": [
+            {
+              "start_date": "2026/03/05",
+              "end_date": "2026/06/18",
+              "weekday": "星期四",
+              "start_time": "13:30",
+              "end_time": "15:55"
+            }
+          ],
+          "classroom": "云谷校区E13-130"
+        },
+        {
+          "class_id": "1004",
+          "teachers": ["潘雨 (Yu PAN)"],
+          "time_periods": [
+            {
+              "start_date": "2026/03/03",
+              "end_date": "2026/06/16",
+              "weekday": "星期二",
+              "start_time": "13:30",
+              "end_time": "15:55"
+            }
+          ],
+          "classroom": "云谷校区E13-130"
+        }
+      ]
+    },
+    {
+      "course_code": "POL 1002",
+      "course_name": "形势与政策 Ⅱ",
+      "course_department": "POL",
+      "classes": [
+        {
+          "class_id": "1022",
+          "teachers": ["廖亦宏 (Yihong LIAO)", "潘雨 (Yu PAN)", "吕有志 (Youzhi LYU)"],
+          "time_periods": [
+            {
+              "start_date": "2026/05/25",
+              "end_date": "2026/06/08",
+              "weekday": "星期一",
+              "start_time": "13:30",
+              "end_time": "15:55"
+            }
+          ],
+          "classroom": "云谷校区E13-129"
+        },
+        {
+          "class_id": "1023",
+          "teachers": ["廖亦宏 (Yihong LIAO)", "潘雨 (Yu PAN)", "吕有志 (Youzhi LYU)"],
+          "time_periods": [
+            {
+              "start_date": "2026/04/29",
+              "end_date": "2026/04/29",
+              "weekday": "星期三",
+              "start_time": "13:30",
+              "end_time": "15:55"
+            },
+            {
+              "start_date": "2026/05/13",
+              "end_date": "2026/05/13",
+              "weekday": "星期三",
+              "start_time": "13:30",
+              "end_time": "15:55"
+            },
+            {
+              "start_date": "2026/05/27",
+              "end_date": "2026/05/27",
+              "weekday": "星期三",
+              "start_time": "13:30",
+              "end_time": "15:55"
+            }
+          ],
+          "classroom": "云谷校区E13-131"
+        },
+        {
+          "class_id": "1024",
+          "teachers": ["廖亦宏 (Yihong LIAO)", "潘雨 (Yu PAN)", "吕有志 (Youzhi LYU)"],
+          "time_periods": [
+            {
+              "start_date": "2026/04/29",
+              "end_date": "2026/04/29",
+              "weekday": "星期三",
+              "start_time": "13:30",
+              "end_time": "15:55"
+            },
+            {
+              "start_date": "2026/05/13",
+              "end_date": "2026/05/13",
+              "weekday": "星期三",
+              "start_time": "13:30",
+              "end_time": "15:55"
+            },
+            {
+              "start_date": "2026/05/27",
+              "end_date": "2026/05/27",
+              "weekday": "星期三",
+              "start_time": "13:30",
+              "end_time": "15:55"
+            }
+          ],
+          "classroom": "云谷校区E13-129"
+        }
+      ]
+    },
+    {
+      "course_code": "POL 1004",
+      "course_name": "形势与政策 Ⅳ",
+      "course_department": "POL",
+      "classes": [
+        {
+          "class_id": "1207",
+          "teachers": ["廖亦宏 (Yihong LIAO)", "潘雨 (Yu PAN)", "吕有志 (Youzhi LYU)"],
+          "time_periods": [
+            {
+              "start_date": "2026/05/25",
+              "end_date": "2026/06/08",
+              "weekday": "星期一",
+              "start_time": "13:30",
+              "end_time": "15:55"
+            }
+          ],
+          "classroom": "云谷校区E13-129"
+        },
+        {
+          "class_id": "1208",
+          "teachers": ["廖亦宏 (Yihong LIAO)", "潘雨 (Yu PAN)", "吕有志 (Youzhi LYU)"],
+          "time_periods": [
+            {
+              "start_date": "2026/04/29",
+              "end_date": "2026/04/29",
+              "weekday": "星期三",
+              "start_time": "13:30",
+              "end_time": "15:55"
+            },
+            {
+              "start_date": "2026/05/13",
+              "end_date": "2026/05/13",
+              "weekday": "星期三",
+              "start_time": "13:30",
+              "end_time": "15:55"
+            },
+            {
+              "start_date": "2026/05/27",
+              "end_date": "2026/05/27",
+              "weekday": "星期三",
+              "start_time": "13:30",
+              "end_time": "15:55"
+            }
+          ],
+          "classroom": "云谷校区E13-131"
+        },
+        {
+          "class_id": "1209",
+          "teachers": ["廖亦宏 (Yihong LIAO)", "潘雨 (Yu PAN)", "吕有志 (Youzhi LYU)"],
+          "time_periods": [
+            {
+              "start_date": "2026/04/29",
+              "end_date": "2026/04/29",
+              "weekday": "星期三",
+              "start_time": "13:30",
+              "end_time": "15:55"
+            },
+            {
+              "start_date": "2026/05/13",
+              "end_date": "2026/05/13",
+              "weekday": "星期三",
+              "start_time": "13:30",
+              "end_time": "15:55"
+            },
+            {
+              "start_date": "2026/05/27",
+              "end_date": "2026/05/27",
+              "weekday": "星期三",
+              "start_time": "13:30",
+              "end_time": "15:55"
+            }
+          ],
+          "classroom": "云谷校区E13-129"
+        }
+      ]
+    },
+    {
+      "course_code": "POL 1005",
+      "course_name": "改革开放史",
+      "course_department": "POL",
+      "classes": [
+        {
+          "class_id": "1033",
+          "teachers": ["戴文标 (Wenbiao DAI)"],
+          "time_periods": [
+            {
+              "start_date": "2026/03/02",
+              "end_date": "2026/04/06",
+              "weekday": "星期一",
+              "start_time": "13:30",
+              "end_time": "15:55"
+            }
+          ],
+          "classroom": "云谷校区E13-129"
+        }
+      ]
+    },
+    {
+      "course_code": "POL 1007",
+      "course_name": "国家安全教育",
+      "course_department": "POL",
+      "classes": [
+        {
+          "class_id": "1039",
+          "teachers": ["廖亦宏 (Yihong LIAO)", "潘雨 (Yu PAN)", "吕有志 (Youzhi LYU)", "仇建 (Jian QIU)"],
+          "time_periods": [
+            {
+              "start_date": "2026/04/13",
+              "end_date": "2026/05/18",
+              "weekday": "星期一",
+              "start_time": "13:30",
+              "end_time": "15:55"
+            }
+          ],
+          "classroom": "云谷校区E13-129"
+        },
+        {
+          "class_id": "1040",
+          "teachers": ["廖亦宏 (Yihong LIAO)", "潘雨 (Yu PAN)", "吕有志 (Youzhi LYU)", "仇建 (Jian QIU)"],
+          "time_periods": [
+            {
+              "start_date": "2026/04/13",
+              "end_date": "2026/05/18",
+              "weekday": "星期一",
+              "start_time": "13:30",
+              "end_time": "15:55"
+            }
+          ],
+          "classroom": "云谷校区E13-130"
+        }
+      ]
+    },
+    {
+      "course_code": "POL 1009",
+      "course_name": "新中国史",
+      "course_department": "POL",
+      "classes": [
+        {
+          "class_id": "1078",
+          "teachers": ["金光耀"],
+          "time_periods": [
+            {
+              "start_date": "2026/03/02",
+              "end_date": "2026/04/06",
+              "weekday": "星期一",
+              "start_time": "13:30",
+              "end_time": "15:55"
+            }
+          ],
+          "classroom": "云谷校区E13-130"
+        }
+      ]
+    },
+    {
+      "course_code": "POL 1011",
+      "course_name": "毛泽东思想和中国特色社会主义理论体系概论",
+      "course_department": "POL",
+      "classes": [
+        {
+          "class_id": "1042",
+          "teachers": ["廖亦宏 (Yihong LIAO)", "潘雨 (Yu PAN)", "吕有志 (Youzhi LYU)"],
+          "time_periods": [
+            {
+              "start_date": "2026/03/02",
+              "end_date": "2026/06/15",
+              "weekday": "星期一",
+              "start_time": "09:50",
+              "end_time": "12:15"
+            }
+          ],
+          "classroom": "云谷校区E13-130"
+        }
+      ]
+    },
+    {
+      "course_code": "POL 1012",
+      "course_name": "马克思主义基本原理",
+      "course_department": "POL",
+      "classes": [
+        {
+          "class_id": "1079",
+          "teachers": ["王来法 (Laifa Wang)"],
+          "time_periods": [
+            {
+              "start_date": "2026/03/06",
+              "end_date": "2026/06/19",
+              "weekday": "星期五",
+              "start_time": "13:30",
+              "end_time": "15:55"
+            }
+          ],
+          "classroom": "云谷校区E13-129"
+        }
+      ]
+    },
+    {
+      "course_code": "POL 1013",
+      "course_name": "习近平新时代中国特色社会主义思想概论",
+      "course_department": "POL",
+      "classes": [
+        {
+          "class_id": "1080",
+          "teachers": ["廖亦宏 (Yihong LIAO)", "吕有志 (Youzhi LYU)"],
+          "time_periods": [
+            {
+              "start_date": "2026/03/06",
+              "end_date": "2026/06/19",
+              "weekday": "星期五",
+              "start_time": "09:50",
+              "end_time": "12:15"
+            }
+          ],
+          "classroom": "云谷校区E13-129"
+        }
+      ]
+    },
+    {
+      "course_code": "PHY 1002",
+      "course_name": "物理学实验 Ⅰ",
+      "course_department": "PHY",
+      "classes": [
+        {
+          "class_id": "1005",
+          "teachers": ["何斌 (Bin HE)"],
+          "time_periods": [
+            {
+              "start_date": "2026/03/02",
+              "end_date": "2026/06/15",
+              "weekday": "星期一",
+              "start_time": "13:30",
+              "end_time": "15:55"
+            }
+          ],
+          "classroom": "云谷校区H6-211"
+        },
+        {
+          "class_id": "1006",
+          "teachers": ["何斌 (Bin HE)"],
+          "time_periods": [
+            {
+              "start_date": "2026/03/02",
+              "end_date": "2026/06/15",
+              "weekday": "星期一",
+              "start_time": "13:30",
+              "end_time": "15:55"
+            }
+          ],
+          "classroom": "云谷校区H6-213"
+        }
+      ]
+    },
+    {
+      "course_code": "PHY 1004",
+      "course_name": "物理学实验 Ⅱ",
+      "course_department": "PHY",
+      "classes": [
+        {
+          "class_id": "1026",
+          "teachers": ["何斌 (Bin HE)", "王璟 (Jing WANG)"],
+          "time_periods": [
+            {
+              "start_date": "2026/03/05",
+              "end_date": "2026/06/18",
+              "weekday": "星期四",
+              "start_time": "13:30",
+              "end_time": "15:55"
+            }
+          ],
+          "classroom": "云谷校区H6-203"
+        },
+        {
+          "class_id": "1027",
+          "teachers": ["周晓青 (Xiaoqing ZHOU)", "王璟 (Jing WANG)"],
+          "time_periods": [
+            {
+              "start_date": "2026/03/02",
+              "end_date": "2026/06/15",
+              "weekday": "星期一",
+              "start_time": "13:30",
+              "end_time": "15:55"
+            }
+          ],
+          "classroom": "云谷校区H6-203"
+        },
+        {
+          "class_id": "1028",
+          "teachers": ["周晓青 (Xiaoqing ZHOU)", "王璟 (Jing WANG)"],
+          "time_periods": [
+            {
+              "start_date": "2026/03/03",
+              "end_date": "2026/06/16",
+              "weekday": "星期二",
+              "start_time": "13:30",
+              "end_time": "15:55"
+            }
+          ],
+          "classroom": "云谷校区H6-203"
+        },
+        {
+          "class_id": "1029",
+          "teachers": ["ARTHUR MORAES", "王璟 (Jing WANG)"],
+          "time_periods": [
+            {
+              "start_date": "2026/03/03",
+              "end_date": "2026/06/16",
+              "weekday": "星期二",
+              "start_time": "13:30",
+              "end_time": "15:55"
+            }
+          ],
+          "classroom": "云谷校区H6-201"
+        },
+        {
+          "class_id": "1030",
+          "teachers": ["王芳 (Fang WANG)", "王璟 (Jing WANG)"],
+          "time_periods": [
+            {
+              "start_date": "2026/03/03",
+              "end_date": "2026/06/16",
+              "weekday": "星期二",
+              "start_time": "09:50",
+              "end_time": "12:15"
+            }
+          ],
+          "classroom": "云谷校区H6-201"
+        },
+        {
+          "class_id": "1031",
+          "teachers": ["王芳 (Fang WANG)", "王璟 (Jing WANG)"],
+          "time_periods": [
+            {
+              "start_date": "2026/03/05",
+              "end_date": "2026/06/18",
+              "weekday": "星期四",
+              "start_time": "13:30",
+              "end_time": "15:55"
+            }
+          ],
+          "classroom": "云谷校区H6-201"
+        },
+        {
+          "class_id": "1032",
+          "teachers": ["王芳 (Fang WANG)", "王璟 (Jing WANG)"],
+          "time_periods": [
+            {
+              "start_date": "2026/03/02",
+              "end_date": "2026/06/15",
+              "weekday": "星期一",
+              "start_time": "13:30",
+              "end_time": "15:55"
+            }
+          ],
+          "classroom": "云谷校区H6-201"
+        }
+      ]
+    },
+    {
+      "course_code": "PHY 1006",
+      "course_name": "大学物理A（上）",
+      "course_department": "PHY",
+      "classes": [
+        {
+          "class_id": "1147",
+          "teachers": ["王璟 (Jing WANG)"],
+          "time_periods": [
+            {
+              "start_date": "2026/03/02",
+              "end_date": "2026/06/15",
+              "weekday": "星期一",
+              "start_time": "08:00",
+              "end_time": "09:35"
+            },
+            {
+              "start_date": "2026/03/05",
+              "end_date": "2026/06/18",
+              "weekday": "星期四",
+              "start_time": "10:40",
+              "end_time": "12:15"
+            }
+          ],
+          "classroom": "云谷校区E13-209"
+        }
+      ]
+    },
+    {
+      "course_code": "PHY 1008",
+      "course_name": "大学物理B（下）",
+      "course_department": "PHY",
+      "classes": [
+        {
+          "class_id": "1156",
+          "teachers": ["ARTHUR MORAES"],
+          "time_periods": [
+            {
+              "start_date": "2026/03/02",
+              "end_date": "2026/06/15",
+              "weekday": "星期一",
+              "start_time": "10:40",
+              "end_time": "12:15"
+            },
+            {
+              "start_date": "2026/03/05",
+              "end_date": "2026/06/18",
+              "weekday": "星期四",
+              "start_time": "08:00",
+              "end_time": "08:45"
+            },
+            {
+              "start_date": "2026/03/05",
+              "end_date": "2026/06/18",
+              "weekday": "星期四",
+              "start_time": "08:50",
+              "end_time": "10:35"
+            }
+          ],
+          "classroom": "云谷校区H6-216、云谷校区H6-205"
+        }
+      ]
+    },
+    {
+      "course_code": "PHY 1005",
+      "course_name": "普通物理 Ⅱ",
+      "course_department": "PHY",
+      "classes": [
+        {
+          "class_id": "1034",
+          "teachers": ["林效 (Xiao LIN)"],
+          "time_periods": [
+            {
+              "start_date": "2026/03/02",
+              "end_date": "2026/06/15",
+              "weekday": "星期一",
+              "start_time": "10:40",
+              "end_time": "12:15"
+            },
+            {
+              "start_date": "2026/03/05",
+              "end_date": "2026/06/18",
+              "weekday": "星期四",
+              "start_time": "08:00",
+              "end_time": "09:35"
+            }
+          ],
+          "classroom": "云谷校区E13-205"
+        }
+      ]
+    },
+    {
+      "course_code": "PHY 2003",
+      "course_name": "数学物理方法",
+      "course_department": "PHY",
+      "classes": [
+        {
+          "class_id": "1076",
+          "teachers": ["QIAN HONG"],
+          "time_periods": [
+            {
+              "start_date": "2026/03/03",
+              "end_date": "2026/06/16",
+              "weekday": "星期二",
+              "start_time": "10:40",
+              "end_time": "12:15"
+            },
+            {
+              "start_date": "2026/03/06",
+              "end_date": "2026/06/19",
+              "weekday": "星期五",
+              "start_time": "08:00",
+              "end_time": "09:35"
+            }
+          ],
+          "classroom": "云谷校区E13-207"
+        }
+      ]
+    },
+    {
+      "course_code": "PHY 1009",
+      "course_name": "大学物理A（下）",
+      "course_department": "PHY",
+      "classes": [
+        {
+          "class_id": "1158",
+          "teachers": ["何斌 (Bin HE)"],
+          "time_periods": [
+            {
+              "start_date": "2026/03/02",
+              "end_date": "2026/06/15",
+              "weekday": "星期一",
+              "start_time": "10:40",
+              "end_time": "12:15"
+            },
+            {
+              "start_date": "2026/03/05",
+              "end_date": "2026/06/18",
+              "weekday": "星期四",
+              "start_time": "08:00",
+              "end_time": "09:35"
+            }
+          ],
+          "classroom": "云谷校区E13-208"
+        },
+        {
+          "class_id": "1159",
+          "teachers": ["王璟 (Jing WANG)"],
+          "time_periods": [
+            {
+              "start_date": "2026/03/02",
+              "end_date": "2026/06/15",
+              "weekday": "星期一",
+              "start_time": "10:40",
+              "end_time": "12:15"
+            },
+            {
+              "start_date": "2026/03/05",
+              "end_date": "2026/06/18",
+              "weekday": "星期四",
+              "start_time": "08:00",
+              "end_time": "09:35"
+            }
+          ],
+          "classroom": "云谷校区E13-209"
+        },
+        {
+          "class_id": "1160",
+          "teachers": ["周晓青 (Xiaoqing ZHOU)"],
+          "time_periods": [
+            {
+              "start_date": "2026/03/02",
+              "end_date": "2026/06/15",
+              "weekday": "星期一",
+              "start_time": "10:40",
+              "end_time": "12:15"
+            },
+            {
+              "start_date": "2026/03/05",
+              "end_date": "2026/06/18",
+              "weekday": "星期四",
+              "start_time": "08:00",
+              "end_time": "09:35"
+            }
+          ],
+          "classroom": "云谷校区E13-111"
+        }
+      ]
+    },
+    {
+      "course_code": "PHY 2004",
+      "course_name": "电动力学",
+      "course_department": "PHY",
+      "classes": [
+        {
+          "class_id": "1077",
+          "teachers": ["SAVVIDIS PAVLOS"],
+          "time_periods": [
+            {
+              "start_date": "2026/03/03",
+              "end_date": "2026/06/16",
+              "weekday": "星期二",
+              "start_time": "13:30",
+              "end_time": "15:05"
+            },
+            {
+              "start_date": "2026/03/05",
+              "end_date": "2026/06/18",
+              "weekday": "星期四",
+              "start_time": "13:30",
+              "end_time": "15:05"
+            }
+          ],
+          "classroom": "云谷校区E13-206"
+        }
+      ]
+    },
+    {
+      "course_code": "PHY 3019",
+      "course_name": "近代物理实验",
+      "course_department": "PHY",
+      "classes": [
+        {
+          "class_id": "1123",
+          "teachers": ["郑昌喜 (Changxi ZHENG)"],
+          "time_periods": [
+            {
+              "start_date": "2026/03/02",
+              "end_date": "2026/03/16",
+              "weekday": "星期一",
+              "start_time": "13:30",
+              "end_time": "17:45"
+            },
+            {
+              "start_date": "2026/03/27",
+              "end_date": "2026/06/19",
+              "weekday": "星期五",
+              "start_time": "13:30",
+              "end_time": "17:45"
+            }
+          ],
+          "classroom": "云谷校区H6-216、云谷校区E10-312"
+        }
+      ]
+    },
+    {
+      "course_code": "PHY 3022",
+      "course_name": "基础光学",
+      "course_department": "PHY",
+      "classes": [
+        {
+          "class_id": "1197",
+          "teachers": ["施勇 (Yong SHI)"],
+          "time_periods": [
+            {
+              "start_date": "2026/03/05",
+              "end_date": "2026/06/18",
+              "weekday": "星期四",
+              "start_time": "09:50",
+              "end_time": "12:15"
+            }
+          ],
+          "classroom": "云谷校区E13-206"
+        }
+      ]
+    },
+    {
+      "course_code": "PHY 4800",
+      "course_name": "固体理论",
+      "course_department": "PHY",
+      "classes": [
+        {
+          "class_id": "1104",
+          "teachers": ["朱伟 (Wei ZHU)"],
+          "time_periods": [
+            {
+              "start_date": "2026/03/05",
+              "end_date": "2026/06/18",
+              "weekday": "星期四",
+              "start_time": "08:50",
+              "end_time": "12:15"
+            }
+          ],
+          "classroom": "云谷校区E10-312"
+        }
+      ]
+    },
+    {
+      "course_code": "PHY 4803",
+      "course_name": "高等电动力学",
+      "course_department": "PHY",
+      "classes": [
+        {
+          "class_id": "1106",
+          "teachers": ["鲍芳琳 (Fanglin BAO)"],
+          "time_periods": [
+            {
+              "start_date": "2026/03/03",
+              "end_date": "2026/06/16",
+              "weekday": "星期二",
+              "start_time": "10:40",
+              "end_time": "12:15"
+            },
+            {
+              "start_date": "2026/03/06",
+              "end_date": "2026/06/19",
+              "weekday": "星期五",
+              "start_time": "08:00",
+              "end_time": "09:35"
+            }
+          ],
+          "classroom": "云谷校区E10-405"
+        }
+      ]
+    },
+    {
+      "course_code": "PHY 4807",
+      "course_name": "生物系统里的定量原理",
+      "course_department": "PHY",
+      "classes": [
+        {
+          "class_id": "1180",
+          "teachers": ["何柏毅 (Boyi HE)"],
+          "time_periods": [
+            {
+              "start_date": "2026/03/06",
+              "end_date": "2026/06/19",
+              "weekday": "星期五",
+              "start_time": "13:30",
+              "end_time": "15:55"
+            }
+          ],
+          "classroom": "云谷校区E10-211"
+        }
+      ]
+    },
+    {
+      "course_code": "PHY 4808",
+      "course_name": "介观物理",
+      "course_department": "PHY",
+      "classes": [
+        {
+          "class_id": "1181",
+          "teachers": ["孔令元 (Lingyuan KONG)"],
+          "time_periods": [
+            {
+              "start_date": "2026/03/02",
+              "end_date": "2026/06/15",
+              "weekday": "星期一",
+              "start_time": "13:30",
+              "end_time": "15:55"
+            }
+          ],
+          "classroom": "云谷校区E10-211"
+        }
+      ]
+    },
+    {
+      "course_code": "PHY 4809",
+      "course_name": "广义相对论",
+      "course_department": "PHY",
+      "classes": [
+        {
+          "class_id": "1182",
+          "teachers": ["吴从军 (Congjun WU)", "刘洪光 (Hongguang LIU)"],
+          "time_periods": [
+            {
+              "start_date": "2026/03/03",
+              "end_date": "2026/06/16",
+              "weekday": "星期二",
+              "start_time": "08:00",
+              "end_time": "10:35"
+            }
+          ],
+          "classroom": "云谷校区E10-315"
+        }
+      ]
+    },
+    {
+      "course_code": "PHY 4810",
+      "course_name": "计算物理B",
+      "course_department": "PHY",
+      "classes": [
+        {
+          "class_id": "1183",
+          "teachers": ["TORRES SERGIO ANDRES GALINDO", "李凌 (Ling LI)"],
+          "time_periods": [
+            {
+              "start_date": "2026/03/02",
+              "end_date": "2026/06/15",
+              "weekday": "星期一",
+              "start_time": "09:50",
+              "end_time": "12:15"
+            }
+          ],
+          "classroom": "云谷校区E10-221"
+        }
+      ]
+    },
+    {
+      "course_code": "PHY 4812",
+      "course_name": "天体物理学导论",
+      "course_department": "PHY",
+      "classes": [
+        {
+          "class_id": "1196",
+          "teachers": ["SHUDE MAO"],
+          "time_periods": [
+            {
+              "start_date": "2026/03/02",
+              "end_date": "2026/06/15",
+              "weekday": "星期一",
+              "start_time": "08:00",
+              "end_time": "09:35"
+            }
+          ],
+          "classroom": "云谷校区E10-211"
+        }
+      ]
+    },
+{
+      "course_code": "CHEM 3002",
+      "course_name": "物理化学 Ⅱ",
+      "course_department": "CHEM",
+      "classes": [
+        {
+          "class_id": "1059",
+          "teachers": [
+            "杨汶醒 (Wenxing YANG)"
+          ],
+          "time_periods": [
+            {
+              "start_date": "2026/03/05",
+              "end_date": "2026/06/18",
+              "weekday": "星期四",
+              "start_time": "10:40",
+              "end_time": "12:15"
+            },
+            {
+              "start_date": "2026/03/02",
+              "end_date": "2026/06/15",
+              "weekday": "星期一",
+              "start_time": "08:00",
+              "end_time": "09:35"
+            }
+          ],
+          "classroom": "云谷校区 E13-113"
+        }
+      ]
+    },
+    {
+      "course_code": "CHEM 3003",
+      "course_name": "无机化学",
+      "course_department": "CHEM",
+      "classes": [
+        {
+          "class_id": "1060",
+          "teachers": [
+            "段乐乐 (Lele DUAN)"
+          ],
+          "time_periods": [
+            {
+              "start_date": "2026/03/03",
+              "end_date": "2026/06/16",
+              "weekday": "星期二",
+              "start_time": "09:50",
+              "end_time": "12:15"
+            }
+          ],
+          "classroom": "云谷校区 E13-111"
+        }
+      ]
+    },
+    {
+      "course_code": "CHEM 3004",
+      "course_name": "生物化学",
+      "course_department": "CHEM",
+      "classes": [
+        {
+          "class_id": "1061",
+          "teachers": [
+            "吴明轩 (Mingxuan WU)"
+          ],
+          "time_periods": [
+            {
+              "start_date": "2026/03/06",
+              "end_date": "2026/06/19",
+              "weekday": "星期五",
+              "start_time": "09:50",
+              "end_time": "12:15"
+            }
+          ],
+          "classroom": "云谷校区 E13-113"
+        }
+      ]
+    },
+    {
+      "course_code": "CHEM 3005",
+      "course_name": "合成化学实验",
+      "course_department": "CHEM",
+      "classes": [
+        {
+          "class_id": "1062",
+          "teachers": [
+            "Tan Karen"
+          ],
+          "time_periods": [
+            {
+              "start_date": "2026/03/05",
+              "end_date": "2026/06/18",
+              "weekday": "星期四",
+              "start_time": "13:30",
+              "end_time": "16:55"
+            }
+          ],
+          "classroom": "云谷校区 H6-437"
+        }
+      ]
+    },
+    {
+      "course_code": "CHEM 4800",
+      "course_name": "有机合成反应和策略",
+      "course_department": "CHEM",
+      "classes": [
+        {
+          "class_id": "1105",
+          "teachers": [
+            "胡鹏飞 (Pengfei HU)"
+          ],
+          "time_periods": [
+            {
+              "start_date": "2026/03/03",
+              "end_date": "2026/06/16",
+              "weekday": "星期二",
+              "start_time": "09:50",
+              "end_time": "12:15"
+            }
+          ],
+          "classroom": "云谷校区 E10-312"
+        }
+      ]
+    },
+    {
+      "course_code": "CHEM 4801",
+      "course_name": "分子光谱学与群论基础",
+      "course_department": "CHEM",
+      "classes": [
+        {
+          "class_id": "1107",
+          "teachers": [
+            "项博 (Bo XIANG)"
+          ],
+          "time_periods": [
+            {
+              "start_date": "2026/03/05",
+              "end_date": "2026/06/18",
+              "weekday": "星期四",
+              "start_time": "08:00",
+              "end_time": "10:35"
+            }
+          ],
+          "classroom": "云谷校区 E10-405"
+        }
+      ]
+    },
+    {
+      "course_code": "CHEM 4802",
+      "course_name": "无机化学表征方法",
+      "course_department": "CHEM",
+      "classes": [
+        {
+          "class_id": "1108",
+          "teachers": [
+            "孙磊 (Lei SUN)"
+          ],
+          "time_periods": [
+            {
+              "start_date": "2026/03/06",
+              "end_date": "2026/06/19",
+              "weekday": "星期五",
+              "start_time": "13:30",
+              "end_time": "15:55"
+            }
+          ],
+          "classroom": "云谷校区 E10-405"
+        }
+      ]
+    },
+    {
+      "course_code": "CHEM 4803",
+      "course_name": "化学反应动力学",
+      "course_department": "CHEM",
+      "classes": [
+        {
+          "class_id": "1110",
+          "teachers": [
+            "顾冰 (Bing GU)"
+          ],
+          "time_periods": [
+            {
+              "start_date": "2026/03/02",
+              "end_date": "2026/06/15",
+              "weekday": "星期一",
+              "start_time": "09:50",
+              "end_time": "12:15"
+            }
+          ],
+          "classroom": "云谷校区 E10-405"
+        }
+      ]
+    },
+    {
+      "course_code": "CHEM 4812",
+      "course_name": "酶催化与生物合成",
+      "course_department": "CHEM",
+      "classes": [
+        {
+          "class_id": "1199",
+          "teachers": [
+            "张骊駻 (Lihan ZHANG)"
+          ],
+          "time_periods": [
+            {
+              "start_date": "2026/03/04",
+              "end_date": "2026/06/17",
+              "weekday": "星期三",
+              "start_time": "09:50",
+              "end_time": "12:15"
+            }
+          ],
+          "classroom": "云谷校区 E10-405"
+        }
+      ]
+    },
+    {
+      "course_code": "CST 1002",
+      "course_name": "计算机和程序设计基础 A",
+      "course_department": "CST",
+      "classes": [
+        {
+          "class_id": "1214",
+          "teachers": [
+            "王潇鸿 (Xiaohong WANG)",
+            "于开丞 (Kaicheng YU)"
+          ],
+          "time_periods": [
+            {
+              "start_date": "2026/03/03",
+              "end_date": "2026/06/16",
+              "weekday": "星期二",
+              "start_time": "16:10",
+              "end_time": "17:45"
+            },
+            {
+              "start_date": "2026/03/03",
+              "end_date": "2026/06/16",
+              "weekday": "星期二",
+              "start_time": "08:00",
+              "end_time": "09:35"
+            }
+          ],
+          "classroom": "云谷校区 H6-303 云谷校区 E13-129"
+        }
+      ]
+    },
+    {
+      "course_code": "CST 1001",
+      "course_name": "计算机和程序设计基础 B",
+      "course_department": "CST",
+      "classes": [
+        {
+          "class_id": "1211",
+          "teachers": [
+            "王潇鸿 (Xiaohong WANG)"
+          ],
+          "time_periods": [
+            {
+              "start_date": "2026/03/03",
+              "end_date": "2026/06/16",
+              "weekday": "星期二",
+              "start_time": "18:30",
+              "end_time": "20:05"
+            },
+            {
+              "start_date": "2026/03/03",
+              "end_date": "2026/06/16",
+              "weekday": "星期二",
+              "start_time": "08:00",
+              "end_time": "09:35"
+            }
+          ],
+          "classroom": "云谷校区 H6-303 云谷校区 E13-130"
+        },
+        {
+          "class_id": "1212",
+          "teachers": [
+            "王潇鸿 (Xiaohong WANG)"
+          ],
+          "time_periods": [
+            {
+              "start_date": "2026/03/03",
+              "end_date": "2026/06/16",
+              "weekday": "星期二",
+              "start_time": "18:30",
+              "end_time": "20:05"
+            },
+            {
+              "start_date": "2026/03/03",
+              "end_date": "2026/06/16",
+              "weekday": "星期二",
+              "start_time": "08:00",
+              "end_time": "09:35"
+            }
+          ],
+          "classroom": "云谷校区 H6-305 云谷校区 E13-130"
+        },
+        {
+          "class_id": "1336",
+          "teachers": [
+            "王潇鸿 (Xiaohong WANG)"
+          ],
+          "time_periods": [
+            {
+              "start_date": "2026/03/03",
+              "end_date": "2026/06/16",
+              "weekday": "星期二",
+              "start_time": "16:10",
+              "end_time": "17:45"
+            },
+            {
+              "start_date": "2026/03/03",
+              "end_date": "2026/06/16",
+              "weekday": "星期二",
+              "start_time": "08:00",
+              "end_time": "09:35"
+            }
+          ],
+          "classroom": "云谷校区 H6-305 云谷校区 E13-130"
+        }
+      ]
+    },
+    {
+      "course_code": "CST 2001",
+      "course_name": "算法导论",
+      "course_department": "CST",
+      "classes": [
+        {
+          "class_id": "1174",
+          "teachers": [
+            "曾文锋 (Wenfeng ZENG)"
+          ],
+          "time_periods": [
+            {
+              "start_date": "2026/03/05",
+              "end_date": "2026/06/18",
+              "weekday": "星期四",
+              "start_time": "13:30",
+              "end_time": "15:55"
+            }
+          ],
+          "classroom": "云谷校区 E13-115"
+        }
+      ]
+    },
+    {
+      "course_code": "CST 2002",
+      "course_name": "人工智能导论",
+      "course_department": "CST",
+      "classes": [
+        {
+          "class_id": "1175",
+          "teachers": [
+            "郑冶枫 (Yefeng Zheng)",
+            "杨林 (Lin YANG)"
+          ],
+          "time_periods": [
+            {
+              "start_date": "2026/03/02",
+              "end_date": "2026/06/15",
+              "weekday": "星期一",
+              "start_time": "16:10",
+              "end_time": "17:45"
+            }
+          ],
+          "classroom": "云谷校区 E13-209"
+        }
+      ]
+    },
+    {
+      "course_code": "CST 2003",
+      "course_name": "计算机导论",
+      "course_department": "CST",
+      "classes": [
+        {
+          "class_id": "1176",
+          "teachers": [
+            "王潇鸿 (Xiaohong WANG)"
+          ],
+          "time_periods": [
+            {
+              "start_date": "2026/03/05",
+              "end_date": "2026/06/18",
+              "weekday": "星期四",
+              "start_time": "10:40",
+              "end_time": "12:15"
+            }
+          ],
+          "classroom": "云谷校区 E13-207"
+        }
+      ]
+    },
+    {
+      "course_code": "CST 3000",
+      "course_name": "自然语言处理",
+      "course_department": "CST",
+      "classes": [
+        {
+          "class_id": "1127",
+          "teachers": [
+            "王潇鸿 (Xiaohong WANG)",
+            "张岳 (Yue ZHANG)"
+          ],
+          "time_periods": [
+            {
+              "start_date": "2026/03/05",
+              "end_date": "2026/06/18",
+              "weekday": "星期四",
+              "start_time": "16:10",
+              "end_time": "17:45"
+            },
+            {
+              "start_date": "2026/03/03",
+              "end_date": "2026/06/16",
+              "weekday": "星期二",
+              "start_time": "10:40",
+              "end_time": "12:15"
+            }
+          ],
+          "classroom": "云谷校区 E13-103"
+        }
+      ]
+    },
+    {
+      "course_code": "CST 4800",
+      "course_name": "计算机科学与技术前沿",
+      "course_department": "CST",
+      "classes": [
+        {
+          "class_id": "1102",
+          "teachers": [
+            "吴泰霖 (Tailin WU)",
+            "于开丞 (Kaicheng YU)",
+            "蓝振忠 (Zhenzhong LAN)"
+          ],
+          "time_periods": [
+            {
+              "start_date": "2026/03/06",
+              "end_date": "2026/06/19",
+              "weekday": "星期五",
+              "start_time": "13:30",
+              "end_time": "15:05"
+            }
+          ],
+          "classroom": "云谷校区 E10-304"
+        }
+      ]
+    },
+    {
+      "course_code": "CST 4802",
+      "course_name": "计算机图形学",
+      "course_department": "CST",
+      "classes": [
+        {
+          "class_id": "1177",
+          "teachers": [
+            "黄相如 (Xiangru HUANG)"
+          ],
+          "time_periods": [
+            {
+              "start_date": "2026/03/02",
+              "end_date": "2026/06/15",
+              "weekday": "星期一",
+              "start_time": "13:30",
+              "end_time": "15:05"
+            }
+          ],
+          "classroom": "云谷校区 E10-306"
+        }
+      ]
+    },
+    {
+      "course_code": "CST 4803",
+      "course_name": "凸优化",
+      "course_department": "CST",
+      "classes": [
+        {
+          "class_id": "1200",
+          "teachers": [
+            "肖方舟 (Fangzhou XIAO)"
+          ],
+          "time_periods": [
+            {
+              "start_date": "2026/03/04",
+              "end_date": "2026/04/22",
+              "weekday": "星期三",
+              "start_time": "09:50",
+              "end_time": "11:25"
+            }
+          ],
+          "classroom": "云谷校区 E10-306"
+        }
+      ]
+    },
+    {
+      "course_code": "ENG 1003",
+      "course_name": "大学学术英语表达 Ⅱ",
+      "course_department": "ENG",
+      "classes": [
+        {
+          "class_id": "1007",
+          "teachers": [
+            "Gregory Todd Travis"
+          ],
+          "time_periods": [
+            {
+              "start_date": "2026/03/02",
+              "end_date": "2026/06/15",
+              "weekday": "星期一",
+              "start_time": "08:00",
+              "end_time": "09:35"
+            }
+          ],
+          "classroom": "云谷校区 E13-107"
+        },
+        {
+          "class_id": "1008",
+          "teachers": [
+            "Gregory Todd Travis"
+          ],
+          "time_periods": [
+            {
+              "start_date": "2026/03/03",
+              "end_date": "2026/06/16",
+              "weekday": "星期二",
+              "start_time": "10:40",
+              "end_time": "12:15"
+            }
+          ],
+          "classroom": "云谷校区 E13-107"
+        },
+        {
+          "class_id": "1009",
+          "teachers": [
+            "Gregory Todd Travis"
+          ],
+          "time_periods": [
+            {
+              "start_date": "2026/03/04",
+              "end_date": "2026/06/17",
+              "weekday": "星期三",
+              "start_time": "08:00",
+              "end_time": "09:35"
+            }
+          ],
+          "classroom": "云谷校区 E13-107"
+        },
+        {
+          "class_id": "1010",
+          "teachers": [
+            "Gregory Todd Travis"
+          ],
+          "time_periods": [
+            {
+              "start_date": "2026/03/03",
+              "end_date": "2026/06/16",
+              "weekday": "星期二",
+              "start_time": "13:30",
+              "end_time": "15:05"
+            }
+          ],
+          "classroom": "云谷校区 E13-107"
+        },
+        {
+          "class_id": "1011",
+          "teachers": [
+            "Gregory Todd Travis"
+          ],
+          "time_periods": [
+            {
+              "start_date": "2026/03/05",
+              "end_date": "2026/06/18",
+              "weekday": "星期四",
+              "start_time": "16:10",
+              "end_time": "17:45"
+            }
+          ],
+          "classroom": "云谷校区 E13-107"
+        }
+      ]
+    },
+    {
+      "course_code": "ENG 1004",
+      "course_name": "英语读写 Ⅱ",
+      "course_department": "ENG",
+      "classes": [
+        {
+          "class_id": "1012",
+          "teachers": [
+            "俞韫烨 (Yunye YU)"
+          ],
+          "time_periods": [
+            {
+              "start_date": "2026/03/06",
+              "end_date": "2026/06/19",
+              "weekday": "星期五",
+              "start_time": "08:00",
+              "end_time": "09:35"
+            }
+          ],
+          "classroom": "云谷校区 E13-113"
+        },
+        {
+          "class_id": "1013",
+          "teachers": [
+            "俞韫烨 (Yunye YU)"
+          ],
+          "time_periods": [
+            {
+              "start_date": "2026/03/02",
+              "end_date": "2026/06/15",
+              "weekday": "星期一",
+              "start_time": "08:00",
+              "end_time": "09:35"
+            }
+          ],
+          "classroom": "云谷校区 E13-202"
+        },
+        {
+          "class_id": "1014",
+          "teachers": [
+            "俞韫烨 (Yunye YU)"
+          ],
+          "time_periods": [
+            {
+              "start_date": "2026/03/02",
+              "end_date": "2026/06/15",
+              "weekday": "星期一",
+              "start_time": "18:30",
+              "end_time": "20:05"
+            }
+          ],
+          "classroom": "云谷校区 E13-202"
+        },
+        {
+          "class_id": "1015",
+          "teachers": [
+            "俞韫烨 (Yunye YU)"
+          ],
+          "time_periods": [
+            {
+              "start_date": "2026/03/03",
+              "end_date": "2026/06/16",
+              "weekday": "星期二",
+              "start_time": "16:10",
+              "end_time": "17:45"
+            }
+          ],
+          "classroom": "云谷校区 E13-202"
+        },
+        {
+          "class_id": "1016",
+          "teachers": [
+            "俞韫烨 (Yunye YU)"
+          ],
+          "time_periods": [
+            {
+              "start_date": "2026/03/03",
+              "end_date": "2026/06/16",
+              "weekday": "星期二",
+              "start_time": "13:30",
+              "end_time": "15:05"
+            }
+          ],
+          "classroom": "云谷校区 E13-202"
+        }
+      ]
+    },
+    {
+      "course_code": "ENG 1010",
+      "course_name": "美国文化与文学",
+      "course_department": "ENG",
+      "classes": [
+        {
+          "class_id": "1111",
+          "teachers": [
+            "Gregory Todd Travis"
+          ],
+          "time_periods": [
+            {
+              "start_date": "2026/03/04",
+              "end_date": "2026/06/17",
+              "weekday": "星期三",
+              "start_time": "18:30",
+              "end_time": "20:55"
+            }
+          ],
+          "classroom": "云谷校区 E13-203"
+        }
+      ]
+    },
+    {
+      "course_code": "ENG 1011",
+      "course_name": "跨文化交际： 全球语境下的文化话语",
+      "course_department": "ENG",
+      "classes": [
+        {
+          "class_id": "1128",
+          "teachers": [
+            "笪舒扬 (Shuyang DA)"
+          ],
+          "time_periods": [
+            {
+              "start_date": "2026/03/04",
+              "end_date": "2026/06/17",
+              "weekday": "星期三",
+              "start_time": "18:30",
+              "end_time": "20:55"
+            }
+          ],
+          "classroom": "云谷校区 E13-107"
+        }
+      ]
+    },
+    {
+      "course_code": "ENG 1012",
+      "course_name": "理工类专业写作",
+      "course_department": "ENG",
+      "classes": [
+        {
+          "class_id": "1129",
+          "teachers": [
+            "王燕"
+          ],
+          "time_periods": [
+            {
+              "start_date": "2026/03/04",
+              "end_date": "2026/06/17",
+              "weekday": "星期三",
+              "start_time": "18:30",
+              "end_time": "20:55"
+            }
+          ],
+          "classroom": "云谷校区 E13-204"
+        },
+        {
+          "class_id": "1130",
+          "teachers": [
+            "王燕"
+          ],
+          "time_periods": [
+            {
+              "start_date": "2026/03/02",
+              "end_date": "2026/06/15",
+              "weekday": "星期一",
+              "start_time": "09:50",
+              "end_time": "12:15"
+            }
+          ],
+          "classroom": "云谷校区 E13-204"
+        }
+      ]
+    },
+    {
+      "course_code": "EST 2001",
+      "course_name": "模拟电路",
+      "course_department": "EST",
+      "classes": [
+        {
+          "class_id": "1063",
+          "teachers": [
+            "张启宬 (Qicheng ZHANG)"
+          ],
+          "time_periods": [
+            {
+              "start_date": "2026/03/05",
+              "end_date": "2026/06/18",
+              "weekday": "星期四",
+              "start_time": "16:10",
+              "end_time": "17:45"
+            },
+            {
+              "start_date": "2026/03/03",
+              "end_date": "2026/06/16",
+              "weekday": "星期二",
+              "start_time": "13:30",
+              "end_time": "15:55"
+            }
+          ],
+          "classroom": "云谷校区 E10-301 云谷校区 E13-113"
+        }
+      ]
+    },
+    {
+      "course_code": "EST 2002",
+      "course_name": "通信原理与系统",
+      "course_department": "EST",
+      "classes": [
+        {
+          "class_id": "1064",
+          "teachers": [
+            "谢伟 (WILLIAM SHIEH)"
+          ],
+          "time_periods": [
+            {
+              "start_date": "2026/03/06",
+              "end_date": "2026/06/19",
+              "weekday": "星期五",
+              "start_time": "13:30",
+              "end_time": "15:05"
+            },
+            {
+              "start_date": "2026/03/05",
+              "end_date": "2026/06/18",
+              "weekday": "星期四",
+              "start_time": "13:30",
+              "end_time": "15:55"
+            }
+          ],
+          "classroom": "云谷校区 E13-117"
+        }
+      ]
+    },
+    {
+      "course_code": "EST 2004",
+      "course_name": "数字信号处理",
+      "course_department": "EST",
+      "classes": [
+        {
+          "class_id": "1065",
+          "teachers": [
+            "李晓飞 (Xiaofei LI)",
+            "袁鑫 (Xin YUAN)"
+          ],
+          "time_periods": [
+            {
+              "start_date": "2026/03/05",
+              "end_date": "2026/06/18",
+              "weekday": "星期四",
+              "start_time": "10:40",
+              "end_time": "12:15"
+            },
+            {
+              "start_date": "2026/03/02",
+              "end_date": "2026/06/15",
+              "weekday": "星期一",
+              "start_time": "16:10",
+              "end_time": "17:45"
+            }
+          ],
+          "classroom": "云谷校区 H6-303 云谷校区 E13-113"
+        }
+      ]
+    },
+    {
+      "course_code": "EST 2005",
+      "course_name": "数据结构与算法设计 (C++)",
+      "course_department": "EST",
+      "classes": [
+        {
+          "class_id": "1145",
+          "teachers": [
+            "刘沛东 (Peidong LIU)"
+          ],
+          "time_periods": [
+            {
+              "start_date": "2026/03/06",
+              "end_date": "2026/06/19",
+              "weekday": "星期五",
+              "start_time": "16:10",
+              "end_time": "17:45"
+            }
+          ],
+          "classroom": "云谷校区 H6-303 云谷校区 H6-305 云谷校区 E13-130"
+        }
+      ]
+    },
+    {
+      "course_code": "EST 3000",
+      "course_name": "机器学习",
+      "course_department": "EST",
+      "classes": [
+        {
+          "class_id": "1066",
+          "teachers": [
+            "陈安沛 (Anpei CHEN)",
+            "温研东 (Yandong WEN)"
+          ],
+          "time_periods": [
+            {
+              "start_date": "2026/03/06",
+              "end_date": "2026/06/19",
+              "weekday": "星期五",
+              "start_time": "08:00",
+              "end_time": "09:35"
+            },
+            {
+              "start_date": "2026/03/03",
+              "end_date": "2026/06/16",
+              "weekday": "星期二",
+              "start_time": "13:30",
+              "end_time": "15:55"
+            }
+          ],
+          "classroom": "云谷校区 E13-105"
+        }
+      ]
+    },
+    {
+      "course_code": "EST 3009",
+      "course_name": "电磁场与电磁波",
+      "course_department": "EST",
+      "classes": [
+        {
+          "class_id": "1067",
+          "teachers": [
+            "田静逸 (Jingyi TIAN)",
+            "仇旻 (Min QIU)"
+          ],
+          "time_periods": [
+            {
+              "start_date": "2026/03/05",
+              "end_date": "2026/06/18",
+              "weekday": "星期四",
+              "start_time": "08:00",
+              "end_time": "09:35"
+            },
+            {
+              "start_date": "2026/03/03",
+              "end_date": "2026/06/16",
+              "weekday": "星期二",
+              "start_time": "08:00",
+              "end_time": "10:35"
+            }
+          ],
+          "classroom": "云谷校区 E10-304 云谷校区 E10-405"
+        }
+      ]
+    },
+    {
+      "course_code": "EST 3017",
+      "course_name": "机器人建模与控制",
+      "course_department": "EST",
+      "classes": [
+        {
+          "class_id": "1068",
+          "teachers": [
+            "赵世钰 (Shiyu ZHAO)"
+          ],
+          "time_periods": [
+            {
+              "start_date": "2026/03/06",
+              "end_date": "2026/06/19",
+              "weekday": "星期五",
+              "start_time": "13:30",
+              "end_time": "15:05"
+            },
+            {
+              "start_date": "2026/03/03",
+              "end_date": "2026/06/16",
+              "weekday": "星期二",
+              "start_time": "16:10",
+              "end_time": "17:45"
+            }
+          ],
+          "classroom": "云谷校区 E10-221 云谷校区 E10-205"
+        }
+      ]
+    },
+    {
+      "course_code": "EST 4805",
+      "course_name": "固体物理基础",
+      "course_department": "EST",
+      "classes": [
+        {
+          "class_id": "1178",
+          "teachers": [
+            "王贺明 (Heming WANG)"
+          ],
+          "time_periods": [
+            {
+              "start_date": "2026/03/02",
+              "end_date": "2026/06/15",
+              "weekday": "星期一",
+              "start_time": "09:50",
+              "end_time": "12:15"
+            }
+          ],
+          "classroom": "云谷校区 E10-205"
+        }
+      ]
+    },
+    {
+      "course_code": "EST 3021",
+      "course_name": "光电子器件导论及制备技术",
+      "course_department": "EST",
+      "classes": [
+        {
+          "class_id": "1126",
+          "teachers": [
+            "冀波涛 (Botao JI)",
+            "文燎勇 (Liaoyong WEN)",
+            "郑小睿 (Xiaorui ZHENG)"
+          ],
+          "time_periods": [
+            {
+              "start_date": "2026/03/06",
+              "end_date": "2026/06/19",
+              "weekday": "星期五",
+              "start_time": "16:10",
+              "end_time": "17:45"
+            },
+            {
+              "start_date": "2026/03/05",
+              "end_date": "2026/06/18",
+              "weekday": "星期四",
+              "start_time": "16:10",
+              "end_time": "17:45"
+            }
+          ],
+          "classroom": "待定云谷校区 E13-202"
+        }
+      ]
+    },
+{
+      "course_code": "HUM 1008",
+      "course_name": "《周易》经传导读",
+      "course_department": "HUM",
+      "classes": [
+        {
+          "class_id": "1035",
+          "teachers": ["宋锡同"],
+          "time_periods": [
+            {
+              "start_date": "2026/03/05",
+              "end_date": "2026/05/14",
+              "weekday": "星期四",
+              "start_time": "18:30",
+              "end_time": "20:55"
+            }
+          ],
+          "classroom": "云谷校区E13-103"
+        }
+      ]
+    },
+    {
+      "course_code": "HUM 1009",
+      "course_name": "哲学导论",
+      "course_department": "HUM",
+      "classes": [
+        {
+          "class_id": "1036",
+          "teachers": ["王韬洋"],
+          "time_periods": [
+            {
+              "start_date": "2026/03/02",
+              "end_date": "2026/05/11",
+              "weekday": "星期一",
+              "start_time": "18:30",
+              "end_time": "20:55"
+            }
+          ],
+          "classroom": "云谷校区E13-103"
+        }
+      ]
+    },
+    {
+      "course_code": "HUM 1011",
+      "course_name": "哲学问题",
+      "course_department": "HUM",
+      "classes": [
+        {
+          "class_id": "1044",
+          "teachers": ["盛晓明 (Xiaoming SHENG)"],
+          "time_periods": [
+            {
+              "start_date": "2026/03/02",
+              "end_date": "2026/06/15",
+              "weekday": "星期一",
+              "start_time": "18:30",
+              "end_time": "20:55"
+            }
+          ],
+          "classroom": "云谷校区E13-109"
+        }
+      ]
+    },
+    {
+      "course_code": "HUM 1019",
+      "course_name": "世界文明与文化遗产",
+      "course_department": "HUM",
+      "classes": [
+        {
+          "class_id": "1097",
+          "teachers": ["GUOLONG LAI"],
+          "time_periods": [
+            {
+              "start_date": "2026/03/05",
+              "end_date": "2026/06/18",
+              "weekday": "星期四",
+              "start_time": "13:30",
+              "end_time": "15:55"
+            }
+          ],
+          "classroom": "云谷校区E13-203"
+        },
+        {
+          "class_id": "1098",
+          "teachers": ["GUOLONG LAI"],
+          "time_periods": [
+            {
+              "start_date": "2026/03/05",
+              "end_date": "2026/06/18",
+              "weekday": "星期四",
+              "start_time": "18:30",
+              "end_time": "20:55"
+            }
+          ],
+          "classroom": "云谷校区E13-203"
+        }
+      ]
+    },
+    {
+      "course_code": "HUM 1020",
+      "course_name": "法国语言与文化",
+      "course_department": "HUM",
+      "classes": [
+        {
+          "class_id": "1113",
+          "teachers": ["张芳"],
+          "time_periods": [
+            {
+              "start_date": "2026/03/04",
+              "end_date": "2026/06/17",
+              "weekday": "星期三",
+              "start_time": "18:30",
+              "end_time": "19:15"
+            },
+            {
+              "start_date": "2026/03/02",
+              "end_date": "2026/06/15",
+              "weekday": "星期一",
+              "start_time": "18:30",
+              "end_time": "20:05"
+            }
+          ],
+          "classroom": "云谷校区E13-119"
+        }
+      ]
+    },
+    {
+      "course_code": "HUM 1022",
+      "course_name": "科学文化导论",
+      "course_department": "HUM",
+      "classes": [
+        {
+          "class_id": "1131",
+          "teachers": ["盛晓明 (Xiaoming SHENG)"],
+          "time_periods": [
+            {
+              "start_date": "2026/03/03",
+              "end_date": "2026/06/16",
+              "weekday": "星期二",
+              "start_time": "18:30",
+              "end_time": "20:55"
+            }
+          ],
+          "classroom": "云谷校区E13-115"
+        },
+        {
+          "class_id": "1132",
+          "teachers": ["盛晓明 (Xiaoming SHENG)"],
+          "time_periods": [
+            {
+              "start_date": "2026/03/04",
+              "end_date": "2026/06/17",
+              "weekday": "星期三",
+              "start_time": "18:30",
+              "end_time": "20:55"
+            }
+          ],
+          "classroom": "云谷校区E13-115"
+        }
+      ]
+    },
+    {
+      "course_code": "HUM 1024",
+      "course_name": "写作与沟通",
+      "course_department": "HUM",
+      "classes": [
+        {
+          "class_id": "1140",
+          "teachers": ["许志强 (Zhiqiang XU)"],
+          "time_periods": [
+            {
+              "start_date": "2026/03/04",
+              "end_date": "2026/06/17",
+              "weekday": "星期三",
+              "start_time": "18:30",
+              "end_time": "20:55"
+            }
+          ],
+          "classroom": "云谷校区E13-117"
+        },
+        {
+          "class_id": "1141",
+          "teachers": ["金立 (Li JIN)"],
+          "time_periods": [
+            {
+              "start_date": "2026/03/05",
+              "end_date": "2026/06/18",
+              "weekday": "星期四",
+              "start_time": "18:30",
+              "end_time": "20:55"
+            }
+          ],
+          "classroom": "云谷校区E13-129"
+        }
+      ]
+    },
+    {
+      "course_code": "HUM 1027",
+      "course_name": "中国古典诗词",
+      "course_department": "HUM",
+      "classes": [
+        {
+          "class_id": "1155",
+          "teachers": ["GUOLONG LAI"],
+          "time_periods": [
+            {
+              "start_date": "2026/03/03",
+              "end_date": "2026/06/16",
+              "weekday": "星期二",
+              "start_time": "18:30",
+              "end_time": "20:05"
+            }
+          ],
+          "classroom": "云谷校区E13-203"
+        }
+      ]
+    },
+    {
+      "course_code": "HUM 1028",
+      "course_name": "二十世纪中国政治外交人物",
+      "course_department": "HUM",
+      "classes": [
+        {
+          "class_id": "1157",
+          "teachers": ["金光耀"],
+          "time_periods": [
+            {
+              "start_date": "2026/03/03",
+              "end_date": "2026/06/16",
+              "weekday": "星期二",
+              "start_time": "18:30",
+              "end_time": "20:05"
+            }
+          ],
+          "classroom": "云谷校区E13-202"
+        }
+      ]
+    },
+    {
+      "course_code": "MATH 1005",
+      "course_name": "微积分A（下）",
+      "course_department": "MATH",
+      "classes": [
+        {
+          "class_id": "1069",
+          "teachers": ["张雅彬 (Yabin ZHANG)"],
+          "time_periods": [
+            {
+              "start_date": "2026/03/06",
+              "end_date": "2026/06/19",
+              "weekday": "星期五",
+              "start_time": "09:50",
+              "end_time": "12:15"
+            },
+            {
+              "start_date": "2026/03/04",
+              "end_date": "2026/06/17",
+              "weekday": "星期三",
+              "start_time": "09:50",
+              "end_time": "11:25"
+            }
+          ],
+          "classroom": "云谷校区E13-205"
+        },
+        {
+          "class_id": "1070",
+          "teachers": ["MOUNIR HAJLI"],
+          "time_periods": [
+            {
+              "start_date": "2026/03/06",
+              "end_date": "2026/06/19",
+              "weekday": "星期五",
+              "start_time": "09:50",
+              "end_time": "12:15"
+            },
+            {
+              "start_date": "2026/03/04",
+              "end_date": "2026/06/17",
+              "weekday": "星期三",
+              "start_time": "09:50",
+              "end_time": "11:25"
+            }
+          ],
+          "classroom": "云谷校区E13-208"
+        }
+      ]
+    },
+    {
+      "course_code": "MATH 1007",
+      "course_name": "微积分B（下）",
+      "course_department": "MATH",
+      "classes": [
+        {
+          "class_id": "1071",
+          "teachers": ["邹云志 (Yunzhi ZOU)"],
+          "time_periods": [
+            {
+              "start_date": "2026/03/06",
+              "end_date": "2026/06/19",
+              "weekday": "星期五",
+              "start_time": "09:50",
+              "end_time": "12:15"
+            },
+            {
+              "start_date": "2026/03/04",
+              "end_date": "2026/06/17",
+              "weekday": "星期三",
+              "start_time": "09:50",
+              "end_time": "11:25"
+            }
+          ],
+          "classroom": "云谷校区E13-207"
+        },
+        {
+          "class_id": "1072",
+          "teachers": ["林白 (Bai LIN)"],
+          "time_periods": [
+            {
+              "start_date": "2026/03/06",
+              "end_date": "2026/06/19",
+              "weekday": "星期五",
+              "start_time": "09:50",
+              "end_time": "12:15"
+            },
+            {
+              "start_date": "2026/03/04",
+              "end_date": "2026/06/17",
+              "weekday": "星期三",
+              "start_time": "09:50",
+              "end_time": "11:25"
+            }
+          ],
+          "classroom": "云谷校区E13-130"
+        }
+      ]
+    },
+    {
+      "course_code": "MATH 1013",
+      "course_name": "概率论与数理统计B",
+      "course_department": "MATH",
+      "classes": [
+        {
+          "class_id": "1073",
+          "teachers": ["高一帆 (Yifan GAO)"],
+          "time_periods": [
+            {
+              "start_date": "2026/03/04",
+              "end_date": "2026/06/17",
+              "weekday": "星期三",
+              "start_time": "09:50",
+              "end_time": "12:15"
+            }
+          ],
+          "classroom": "云谷校区E13-209"
+        }
+      ]
+    },
+    {
+      "course_code": "MATH 1019",
+      "course_name": "代数与分析基础（下）",
+      "course_department": "MATH",
+      "classes": [
+        {
+          "class_id": "1112",
+          "teachers": ["陈华一 (Huayi CHEN)", "DOLCE PAOLO", "Weronika Aniela Czerniawska"],
+          "time_periods": [
+            {
+              "start_date": "2026/03/06",
+              "end_date": "2026/06/19",
+              "weekday": "星期五",
+              "start_time": "09:50",
+              "end_time": "11:25"
+            },
+            {
+              "start_date": "2026/03/04",
+              "end_date": "2026/06/17",
+              "weekday": "星期三",
+              "start_time": "09:50",
+              "end_time": "12:15"
+            },
+            {
+              "start_date": "2026/03/02",
+              "end_date": "2026/06/15",
+              "weekday": "星期一",
+              "start_time": "16:10",
+              "end_time": "17:45"
+            }
+          ],
+          "classroom": "云谷校区E13-210"
+        }
+      ]
+    },
+    {
+      "course_code": "MATH 1021",
+      "course_name": "线性代数A（下）",
+      "course_department": "MATH",
+      "classes": [
+        {
+          "class_id": "1121",
+          "teachers": ["张雅彬 (Yabin ZHANG)"],
+          "time_periods": [
+            {
+              "start_date": "2026/03/02",
+              "end_date": "2026/06/15",
+              "weekday": "星期一",
+              "start_time": "16:10",
+              "end_time": "17:45"
+            }
+          ],
+          "classroom": "云谷校区E13-205"
+        },
+        {
+          "class_id": "1122",
+          "teachers": ["MOUNIR HAJLI"],
+          "time_periods": [
+            {
+              "start_date": "2026/03/02",
+              "end_date": "2026/06/15",
+              "weekday": "星期一",
+              "start_time": "16:10",
+              "end_time": "17:45"
+            }
+          ],
+          "classroom": "云谷校区E13-208"
+        }
+      ]
+    },
+    {
+      "course_code": "MATH 1020",
+      "course_name": "线性代数B（下）",
+      "course_department": "MATH",
+      "classes": [
+        {
+          "class_id": "1118",
+          "teachers": ["邹云志 (Yunzhi ZOU)"],
+          "time_periods": [
+            {
+              "start_date": "2026/03/02",
+              "end_date": "2026/06/15",
+              "weekday": "星期一",
+              "start_time": "16:10",
+              "end_time": "17:45"
+            }
+          ],
+          "classroom": "云谷校区E13-207"
+        },
+        {
+          "class_id": "1119",
+          "teachers": ["林白 (Bai LIN)"],
+          "time_periods": [
+            {
+              "start_date": "2026/03/02",
+              "end_date": "2026/06/15",
+              "weekday": "星期一",
+              "start_time": "16:10",
+              "end_time": "17:45"
+            }
+          ],
+          "classroom": "云谷校区E13-130"
+        }
+      ]
+    },
+    {
+      "course_code": "MATH 2004",
+      "course_name": "抽象代数（下）",
+      "course_department": "MATH",
+      "classes": [
+        {
+          "class_id": "1124",
+          "teachers": ["赵以庚 (Yigeng ZHAO)"],
+          "time_periods": [
+            {
+              "start_date": "2026/03/05",
+              "end_date": "2026/06/18",
+              "weekday": "星期四",
+              "start_time": "09:50",
+              "end_time": "12:15"
+            }
+          ],
+          "classroom": "云谷校区E13-111"
+        }
+      ]
+    },
+    {
+      "course_code": "MATH 2000",
+      "course_name": "几何与拓扑",
+      "course_department": "MATH",
+      "classes": [
+        {
+          "class_id": "1096",
+          "teachers": ["古星 (Xing GU)"],
+          "time_periods": [
+            {
+              "start_date": "2026/03/05",
+              "end_date": "2026/06/18",
+              "weekday": "星期四",
+              "start_time": "13:30",
+              "end_time": "15:55"
+            }
+          ],
+          "classroom": "云谷校区E13-205"
+        }
+      ]
+    },
+    {
+      "course_code": "MATH 3002",
+      "course_name": "几何专题选讲",
+      "course_department": "MATH",
+      "classes": [
+        {
+          "class_id": "1198",
+          "teachers": ["Weronika Aniela Czerniawska"],
+          "time_periods": [
+            {
+              "start_date": "2026/03/05",
+              "end_date": "2026/06/18",
+              "weekday": "星期四",
+              "start_time": "13:30",
+              "end_time": "15:55"
+            },
+            {
+              "start_date": "2026/03/02",
+              "end_date": "2026/06/15",
+              "weekday": "星期一",
+              "start_time": "09:50",
+              "end_time": "12:15"
+            }
+          ],
+          "classroom": "云谷校区E13-128"
+        }
+      ]
+    },
+    {
+      "course_code": "MATH 4809",
+      "course_name": "分布与傅立叶分析",
+      "course_department": "MATH",
+      "classes": [
+        {
+          "class_id": "1184",
+          "teachers": ["MOUNIR HAJLI"],
+          "time_periods": [
+            {
+              "start_date": "2026/03/03",
+              "end_date": "2026/06/16",
+              "weekday": "星期二",
+              "start_time": "13:30",
+              "end_time": "15:55"
+            }
+          ],
+          "classroom": "云谷校区E13-210"
+        }
+      ]
+    },
+    {
+      "course_code": "MATH 4810",
+      "course_name": "微分几何与微分流形",
+      "course_department": "MATH",
+      "classes": [
+        {
+          "class_id": "1185",
+          "teachers": ["MOUNIR HAJLI"],
+          "time_periods": [
+            {
+              "start_date": "2026/03/06",
+              "end_date": "2026/06/19",
+              "weekday": "星期五",
+              "start_time": "13:30",
+              "end_time": "15:55"
+            }
+          ],
+          "classroom": "云谷校区E13-128"
+        }
+      ]
+    },
+    {
+      "course_code": "MATH 4811",
+      "course_name": "解析与概率数论",
+      "course_department": "MATH",
+      "classes": [
+        {
+          "class_id": "1186",
+          "teachers": ["吴杰"],
+          "time_periods": [
+            {
+              "start_date": "2026/04/27",
+              "end_date": "2026/06/15",
+              "weekday": "星期二",
+              "start_time": "09:50",
+              "end_time": "12:15"
+            },
+            {
+              "start_date": "2026/04/28",
+              "end_date": "2026/06/16",
+              "weekday": "星期一",
+              "start_time": "13:30",
+              "end_time": "15:55"
+            }
+          ],
+          "classroom": "云谷校区E13-211"
+        }
+      ]
+    },
+    {
+      "course_code": "MATH 4812",
+      "course_name": "复几何",
+      "course_department": "MATH",
+      "classes": [
+        {
+          "class_id": "1188",
+          "teachers": ["韩骥原 (Jiyuan HAN)"],
+          "time_periods": [
+            {
+              "start_date": "2026/03/06",
+              "end_date": "2026/06/19",
+              "weekday": "星期五",
+              "start_time": "13:30",
+              "end_time": "15:55"
+            }
+          ],
+          "classroom": "云谷校区E13-206"
+        }
+      ]
+    },
+    {
+      "course_code": "MATH 4813",
+      "course_name": "数值分析",
+      "course_department": "MATH",
+      "classes": [
+        {
+          "class_id": "1189",
+          "teachers": ["周珍楠 (Zhennan ZHOU)"],
+          "time_periods": [
+            {
+              "start_date": "2026/03/03",
+              "end_date": "2026/06/16",
+              "weekday": "星期二",
+              "start_time": "13:30",
+              "end_time": "15:55"
+            }
+          ],
+          "classroom": "云谷校区E13-209"
+        }
+      ]
+    },
+    {
+      "course_code": "MATH 4814",
+      "course_name": "椭圆曲线",
+      "course_department": "MATH",
+      "classes": [
+        {
+          "class_id": "1190",
+          "teachers": ["IVAN FESENKO"],
+          "time_periods": [
+            {
+              "start_date": "2026/03/03",
+              "end_date": "2026/06/16",
+              "weekday": "星期二",
+              "start_time": "13:30",
+              "end_time": "15:55"
+            }
+          ],
+          "classroom": "云谷校区E13-205"
+        }
+      ]
+    },
+    {
+      "course_code": "MATH 4815",
+      "course_name": "数理逻辑",
+      "course_department": "MATH",
+      "classes": [
+        {
+          "class_id": "1191",
+          "teachers": ["叶谨赫"],
+          "time_periods": [
+            {
+              "start_date": "2026/03/03",
+              "end_date": "2026/04/21",
+              "weekday": "星期二",
+              "start_time": "09:50",
+              "end_time": "12:15"
+            },
+            {
+              "start_date": "2026/03/02",
+              "end_date": "2026/04/20",
+              "weekday": "星期一",
+              "start_time": "13:30",
+              "end_time": "15:55"
+            }
+          ],
+          "classroom": "云谷校区E13-128"
+        }
+      ]
+    },
+    {
+      "course_code": "MATH 4816",
+      "course_name": "多复变函数",
+      "course_department": "MATH",
+      "classes": [
+        {
+          "class_id": "1193",
+          "teachers": ["袁原 (Yuan YUAN)"],
+          "time_periods": [
+            {
+              "start_date": "2026/03/06",
+              "end_date": "2026/06/19",
+              "weekday": "星期五",
+              "start_time": "09:50",
+              "end_time": "12:15"
+            }
+          ],
+          "classroom": "云谷校区E13-211"
+        }
+      ]
+    },
+    {
+      "course_code": "MATH 4817",
+      "course_name": "表示论",
+      "course_department": "MATH",
+      "classes": [
+        {
+          "class_id": "1194",
+          "teachers": ["EMMANUEL ANTOINE ARA LECOUTURIER"],
+          "time_periods": [
+            {
+              "start_date": "2026/03/05",
+              "end_date": "2026/06/18",
+              "weekday": "星期四",
+              "start_time": "09:50",
+              "end_time": "12:15"
+            }
+          ],
+          "classroom": "云谷校区E13-208"
+        }
+      ]
+    },
+    {
+      "course_code": "MED 2001",
+      "course_name": "医学导论",
+      "course_department": "MED",
+      "classes": [
+        {
+          "class_id": "1146",
+          "teachers": ["董晨 (Chen DONG)", "Ming Xiaoming Zhang", "刘强 (Qiang LIU)", "郭天南 (Tiannan GUO)"],
+          "time_periods": [
+            {
+              "start_date": "2026/03/05",
+              "end_date": "2026/06/18",
+              "weekday": "星期四",
+              "start_time": "16:10",
+              "end_time": "17:45"
+            }
+          ],
+          "classroom": "云谷校区E13-115"
+        }
+      ]
+    },
+    {
+      "course_code": "MSE 2000",
+      "course_name": "材料科学基础",
+      "course_department": "MSE",
+      "classes": [
+        {
+          "class_id": "1074",
+          "teachers": ["朱一舟 (Yizhou ZHU)"],
+          "time_periods": [
+            {
+              "start_date": "2026/03/05",
+              "end_date": "2026/06/18",
+              "weekday": "星期四",
+              "start_time": "16:10",
+              "end_time": "17:45"
+            },
+            {
+              "start_date": "2026/03/03",
+              "end_date": "2026/06/16",
+              "weekday": "星期二",
+              "start_time": "10:40",
+              "end_time": "12:15"
+            }
+          ],
+          "classroom": "云谷校区E13-203"
+        }
+      ]
+    },
+    {
+      "course_code": "MSE 3007",
+      "course_name": "材料的力学性能",
+      "course_department": "MSE",
+      "classes": [
+        {
+          "class_id": "1075",
+          "teachers": ["薛时磊 (Shilei XUE)"],
+          "time_periods": [
+            {
+              "start_date": "2026/03/03",
+              "end_date": "2026/06/16",
+              "weekday": "星期二",
+              "start_time": "13:30",
+              "end_time": "15:55"
+            }
+          ],
+          "classroom": "云谷校区E13-204"
+        }
+      ]
+    },
+    {
+      "course_code": "MSE 3028",
+      "course_name": "高分子物理化学",
+      "course_department": "MSE",
+      "classes": [
+        {
+          "class_id": "1125",
+          "teachers": ["付海林 (Hailin FU)"],
+          "time_periods": [
+            {
+              "start_date": "2026/03/06",
+              "end_date": "2026/06/19",
+              "weekday": "星期五",
+              "start_time": "09:50",
+              "end_time": "12:15"
+            }
+          ],
+          "classroom": "云谷校区E13-128"
+        }
+      ]
+    },
+    {
+      "course_code": "MSE 4800",
+      "course_name": "材料近代研究方法",
+      "course_department": "MSE",
+      "classes": [
+        {
+          "class_id": "1099",
+          "teachers": ["杨尧 (Yao YANG)", "冯赵骞琦 (Zhaoqianqi FENG)"],
+          "time_periods": [
+            {
+              "start_date": "2026/03/06",
+              "end_date": "2026/06/19",
+              "weekday": "星期五",
+              "start_time": "09:50",
+              "end_time": "11:25"
+            }
+          ],
+          "classroom": "云谷校区E10-304"
+        }
+      ]
+    },
+    {
+      "course_code": "MSE 4802",
+      "course_name": "生物偶联技术",
+      "course_department": "MSE",
+      "classes": [
+        {
+          "class_id": "1100",
+          "teachers": ["程建军 (Jianjun CHENG)"],
+          "time_periods": [
+            {
+              "start_date": "2026/03/02",
+              "end_date": "2026/06/15",
+              "weekday": "星期一",
+              "start_time": "09:50",
+              "end_time": "12:15"
+            }
+          ],
+          "classroom": "云谷校区E10-305"
+        }
+      ]
+    },
+{
+      "course_code": "ART 1002",
+      "course_name": "西方音乐人文阐释",
+      "course_department": "ART",
+      "classes": [
+        {
+          "class_id": "1048",
+          "teachers": ["李鹏程 (Pengcheng LI)", "瞿枫 (Feng QU)"],
+          "time_periods": [
+            {
+              "start_date": "2026/03/03",
+              "end_date": "2026/06/16",
+              "weekday": "星期二",
+              "start_time": "18:30",
+              "end_time": "20:05"
+            }
+          ],
+          "classroom": "云谷校区E10-222"
+        }
+      ]
+    },
+    {
+      "course_code": "ART 1000",
+      "course_name": "世界美术史",
+      "course_department": "ART",
+      "classes": [
+        {
+          "class_id": "1047",
+          "teachers": ["陈亮 (Liang CHEN)", "罗逍然 (Xiaoran LUO)", "高明", "吴戈"],
+          "time_periods": [
+            {
+              "start_date": "2026/03/05",
+              "end_date": "2026/05/14",
+              "weekday": "星期四",
+              "start_time": "18:30",
+              "end_time": "20:55"
+            }
+          ],
+          "classroom": "云谷校区E10-222"
+        }
+      ]
+    },
+    {
+      "course_code": "ART 1005",
+      "course_name": "书法之美",
+      "course_department": "ART",
+      "classes": [
+        {
+          "class_id": "1084",
+          "teachers": ["栾体坤"],
+          "time_periods": [
+            {
+              "start_date": "2026/03/05",
+              "end_date": "2026/05/14",
+              "weekday": "星期四",
+              "start_time": "18:30",
+              "end_time": "20:55"
+            }
+          ],
+          "classroom": "云谷校区H6-335"
+        }
+      ]
+    },
+    {
+      "course_code": "BIO 2000",
+      "course_name": "生物化学 Ⅰ",
+      "course_department": "BIO",
+      "classes": [
+        {
+          "class_id": "1046",
+          "teachers": ["党波 波 (Bobo DANG)", "杨丹 (Dan YANG)"],
+          "time_periods": [
+            {
+              "start_date": "2026/03/03",
+              "end_date": "2026/06/16",
+              "weekday": "星期二",
+              "start_time": "16:10",
+              "end_time": "17:45"
+            }
+          ],
+          "classroom": "云谷校区E13-115"
+        }
+      ]
+    },
+    {
+      "course_code": "BIO 2001",
+      "course_name": "生物化学 Ⅱ",
+      "course_department": "BIO",
+      "classes": [
+        {
+          "class_id": "1045",
+          "teachers": ["WOLF DIETER", "XUELIAN LUO"],
+          "time_periods": [
+            {
+              "start_date": "2026/03/04",
+              "end_date": "2026/06/17",
+              "weekday": "星期三",
+              "start_time": "08:00",
+              "end_time": "09:35"
+            }
+          ],
+          "classroom": "云谷校区E13-207"
+        }
+      ]
+    },
+    {
+      "course_code": "BIO 2003",
+      "course_name": "生物学导论",
+      "course_department": "BIO",
+      "classes": [
+        {
+          "class_id": "1149",
+          "teachers": ["金鑫 (Xin JIN)", "魏磊 (Lei WEI)"],
+          "time_periods": [
+            {
+              "start_date": "2026/03/05",
+              "end_date": "2026/06/18",
+              "weekday": "星期四",
+              "start_time": "16:10",
+              "end_time": "17:45"
+            }
+          ],
+          "classroom": "云谷校区E13-130"
+        }
+      ]
+    },
+    {
+      "course_code": "BIO 2005",
+      "course_name": "应用分子生物学实验",
+      "course_department": "BIO",
+      "classes": [
+        {
+          "class_id": "1166",
+          "teachers": ["尤佳 (Jia YOU)"],
+          "time_periods": [
+            {
+              "start_date": "2026/03/05",
+              "end_date": "2026/06/18",
+              "weekday": "星期四",
+              "start_time": "13:30",
+              "end_time": "16:55"
+            }
+          ],
+          "classroom": "云谷校区H6-325"
+        },
+        {
+          "class_id": "1167",
+          "teachers": ["毛艳博 (Yanbo MAO)"],
+          "time_periods": [
+            {
+              "start_date": "2026/03/05",
+              "end_date": "2026/06/18",
+              "weekday": "星期四",
+              "start_time": "13:30",
+              "end_time": "16:55"
+            }
+          ],
+          "classroom": "云谷校区H6-322"
+        },
+        {
+          "class_id": "1168",
+          "teachers": ["尤佳 (Jia YOU)"],
+          "time_periods": [
+            {
+              "start_date": "2026/03/03",
+              "end_date": "2026/06/16",
+              "weekday": "星期二",
+              "start_time": "13:30",
+              "end_time": "16:55"
+            }
+          ],
+          "classroom": "云谷校区H6-325"
+        },
+        {
+          "class_id": "1169",
+          "teachers": ["毛艳博 (Yanbo MAO)"],
+          "time_periods": [
+            {
+              "start_date": "2026/03/03",
+              "end_date": "2026/06/16",
+              "weekday": "星期二",
+              "start_time": "13:30",
+              "end_time": "16:55"
+            }
+          ],
+          "classroom": "云谷校区H6-322"
+        },
+        {
+          "class_id": "1170",
+          "teachers": ["毛艳博 (Yanbo MAO)"],
+          "time_periods": [
+            {
+              "start_date": "2026/03/06",
+              "end_date": "2026/06/19",
+              "weekday": "星期五",
+              "start_time": "13:30",
+              "end_time": "16:55"
+            }
+          ],
+          "classroom": "云谷校区H6-322"
+        },
+        {
+          "class_id": "1337",
+          "teachers": ["尤佳 (Jia YOU)"],
+          "time_periods": [
+            {
+              "start_date": "2026/03/06",
+              "end_date": "2026/06/19",
+              "weekday": "星期五",
+              "start_time": "13:30",
+              "end_time": "16:55"
+            }
+          ],
+          "classroom": "云谷校区H6-325"
+        }
+      ]
+    },
+    {
+      "course_code": "BIO 2006",
+      "course_name": "动植物科学导论",
+      "course_department": "BIO",
+      "classes": [
+        {
+          "class_id": "1173",
+          "teachers": ["尹璐萍 (Luping YIN)", "李小波 (Xiaobo LI)"],
+          "time_periods": [
+            {
+              "start_date": "2026/03/04",
+              "end_date": "2026/06/17",
+              "weekday": "星期三",
+              "start_time": "08:00",
+              "end_time": "09:35"
+            }
+          ],
+          "classroom": "云谷校区E13-129"
+        }
+      ]
+    },
+    {
+      "course_code": "BIO 3001",
+      "course_name": "微生物学",
+      "course_department": "BIO",
+      "classes": [
+        {
+          "class_id": "1050",
+          "teachers": ["陶亮 (Liang TAO)"],
+          "time_periods": [
+            {
+              "start_date": "2026/03/06",
+              "end_date": "2026/06/19",
+              "weekday": "星期五",
+              "start_time": "13:30",
+              "end_time": "15:55"
+            }
+          ],
+          "classroom": "云谷校区E13-106"
+        }
+      ]
+    },
+    {
+      "course_code": "BIO 3000",
+      "course_name": "细胞生物学",
+      "course_department": "BIO",
+      "classes": [
+        {
+          "class_id": "1049",
+          "teachers": ["付向东 (Xiangdong FU)", "管坤良 (Kunliang GUAN)"],
+          "time_periods": [
+            {
+              "start_date": "2026/03/06",
+              "end_date": "2026/06/19",
+              "weekday": "星期五",
+              "start_time": "09:50",
+              "end_time": "12:15"
+            }
+          ],
+          "classroom": "云谷校区E13-204"
+        }
+      ]
+    },
+    {
+      "course_code": "BIO 3002",
+      "course_name": "生物统计学",
+      "course_department": "BIO",
+      "classes": [
+        {
+          "class_id": "1051",
+          "teachers": ["杨剑 (Jian YANG)", "窦岩梅 (Yanmei DOU)"],
+          "time_periods": [
+            {
+              "start_date": "2026/03/03",
+              "end_date": "2026/06/16",
+              "weekday": "星期二",
+              "start_time": "08:00",
+              "end_time": "09:35"
+            }
+          ],
+          "classroom": "云谷校区E13-113"
+        }
+      ]
+    },
+    {
+      "course_code": "BIO 3003",
+      "course_name": "遗传学",
+      "course_department": "BIO",
+      "classes": [
+        {
+          "class_id": "1052",
+          "teachers": ["马仙珏 (Xianjue MA)"],
+          "time_periods": [
+            {
+              "start_date": "2026/03/04",
+              "end_date": "2026/06/17",
+              "weekday": "星期三",
+              "start_time": "09:50",
+              "end_time": "12:15"
+            }
+          ],
+          "classroom": "云谷校区E13-206"
+        }
+      ]
+    },
+    {
+      "course_code": "BIO 3007",
+      "course_name": "生物物理学",
+      "course_department": "BIO",
+      "classes": [
+        {
+          "class_id": "1053",
+          "teachers": ["柴继杰 (Jijie CHAI)"],
+          "time_periods": [
+            {
+              "start_date": "2026/03/04",
+              "end_date": "2026/06/17",
+              "weekday": "星期三",
+              "start_time": "09:50",
+              "end_time": "12:15"
+            }
+          ],
+          "classroom": "云谷校区E13-102"
+        }
+      ]
+    },
+    {
+      "course_code": "BIO 3010",
+      "course_name": "神经生物学",
+      "course_department": "BIO",
+      "classes": [
+        {
+          "class_id": "1054",
+          "teachers": ["李波 (Bo LI)"],
+          "time_periods": [
+            {
+              "start_date": "2026/03/06",
+              "end_date": "2026/06/19",
+              "weekday": "星期五",
+              "start_time": "09:50",
+              "end_time": "12:15"
+            }
+          ],
+          "classroom": "云谷校区E13-102"
+        }
+      ]
+    },
+    {
+      "course_code": "BIO 3013",
+      "course_name": "免疫学",
+      "course_department": "BIO",
+      "classes": [
+        {
+          "class_id": "1055",
+          "teachers": ["徐和平 (Heping XU)"],
+          "time_periods": [
+            {
+              "start_date": "2026/03/05",
+              "end_date": "2026/06/18",
+              "weekday": "星期四",
+              "start_time": "13:30",
+              "end_time": "15:55"
+            }
+          ],
+          "classroom": "云谷校区E13-103"
+        }
+      ]
+    },
+    {
+      "course_code": "BIO 3022",
+      "course_name": "RNA 生物学",
+      "course_department": "BIO",
+      "classes": [
+        {
+          "class_id": "1139",
+          "teachers": ["申恩志 (Enzhi SHEN)"],
+          "time_periods": [
+            {
+              "start_date": "2026/03/03",
+              "end_date": "2026/06/16",
+              "weekday": "星期二",
+              "start_time": "09:50",
+              "end_time": "12:15"
+            }
+          ],
+          "classroom": "云谷校区E13-104"
+        }
+      ]
+    },
+    {
+      "course_code": "BIO 3028",
+      "course_name": "现代生物学综合实验",
+      "course_department": "BIO",
+      "classes": [
+        {
+          "class_id": "1148",
+          "teachers": ["毛艳博 (Yanbo MAO)", "张 垲 (Kai ZHANG)", "胡奇 (Qi HU)", "王雅婕 (Yajie WANG)", "郑甲 (Jia ZHENG)"],
+          "time_periods": [
+            {
+              "start_date": "2026/03/07",
+              "end_date": "2026/06/20",
+              "weekday": "星期六",
+              "start_time": "08:00",
+              "end_time": "17:45"
+            },
+                        {
+              "start_date": "2026/03/02",
+              "end_date": "2026/06/15",
+              "weekday": "星期一",
+              "start_time": "13:30",
+              "end_time": "16:55"
+            }
+          ],
+          "classroom": "待定云谷校区E13-102云谷校区E13-110云谷校区E13-204"
+        }
+      ]
+    },
+    {
+      "course_code": "BIO 3029",
+      "course_name": "化学生物学",
+      "course_department": "BIO",
+      "classes": [
+        {
+          "class_id": "1161",
+          "teachers": ["党波 波 (Bobo DANG)"],
+          "time_periods": [
+            {
+              "start_date": "2026/03/04",
+              "end_date": "2026/04/22",
+              "weekday": "星期三",
+              "start_time": "08:00",
+              "end_time": "09:35"
+            }
+          ],
+          "classroom": "云谷校区E13-102"
+        }
+      ]
+    },
+    {
+      "course_code": "BIO 3030",
+      "course_name": "神经技术课程",
+      "course_department": "BIO",
+      "classes": [
+        {
+          "class_id": "1162",
+          "teachers": ["PIATKEVICH KIRYL"],
+          "time_periods": [
+            {
+              "start_date": "2026/03/06",
+              "end_date": "2026/06/19",
+              "weekday": "星期五",
+              "start_time": "08:00",
+              "end_time": "09:35"
+            }
+          ],
+          "classroom": "云谷校区E13-107"
+        }
+      ]
+    },
+    {
+      "course_code": "BIO 3031",
+      "course_name": "胚胎学",
+      "course_department": "BIO",
+      "classes": [
+        {
+          "class_id": "1163",
+          "teachers": ["裴端卿 (Duanqing PEI)"],
+          "time_periods": [
+            {
+              "start_date": "2026/03/02",
+              "end_date": "2026/06/15",
+              "weekday": "星期一",
+              "start_time": "08:00",
+              "end_time": "09:35"
+            }
+          ],
+          "classroom": "云谷校区E13-104"
+        }
+      ]
+    },
+    {
+      "course_code": "BIO 3032",
+      "course_name": "行为神经科学导论",
+      "course_department": "BIO",
+      "classes": [
+        {
+          "class_id": "1164",
+          "teachers": ["边文杰 (Wenjie BIAN)"],
+          "time_periods": [
+            {
+              "start_date": "2026/03/04",
+              "end_date": "2026/04/22",
+              "weekday": "星期三",
+              "start_time": "09:50",
+              "end_time": "12:15"
+            }
+          ],
+          "classroom": "云谷校区E13-202"
+        }
+      ]
+    },
+    {
+      "course_code": "BIO 3033",
+      "course_name": "进化生物学",
+      "course_department": "BIO",
+      "classes": [
+        {
+          "class_id": "1165",
+          "teachers": ["郑甲 (Jia ZHENG)"],
+          "time_periods": [
+            {
+              "start_date": "2026/03/03",
+              "end_date": "2026/06/16",
+              "weekday": "星期二",
+              "start_time": "08:00",
+              "end_time": "09:35"
+            }
+          ],
+          "classroom": "云谷校区E13-106"
+        }
+      ]
+    },
+    {
+      "course_code": "BIO 3034",
+      "course_name": "分子生物学",
+      "course_department": "BIO",
+      "classes": [
+        {
+          "class_id": "1171",
+          "teachers": ["俞晓春 (Xiaochun YU)"],
+          "time_periods": [
+            {
+              "start_date": "2026/03/03",
+              "end_date": "2026/06/16",
+              "weekday": "星期二",
+              "start_time": "09:50",
+              "end_time": "12:15"
+            }
+          ],
+          "classroom": "云谷校区E13-102"
+        }
+      ]
+    },
+    {
+      "course_code": "BIO 3035",
+      "course_name": "生物技术与工程",
+      "course_department": "BIO",
+      "classes": [
+        {
+          "class_id": "1172",
+          "teachers": ["朱听 (Ting ZHU)"],
+          "time_periods": [
+            {
+              "start_date": "2026/03/03",
+              "end_date": "2026/06/16",
+              "weekday": "星期二",
+              "start_time": "14:20",
+              "end_time": "15:55"
+            }
+          ],
+          "classroom": "云谷校区E13-106"
+        }
+      ]
+    },
+    {
+      "course_code": "BIO 3036",
+      "course_name": "蛋白质设计与工程",
+      "course_department": "BIO",
+      "classes": [
+        {
+          "class_id": "1201",
+          "teachers": ["卢培龙 (Peilong LU)"],
+          "time_periods": [
+            {
+              "start_date": "2026/03/05",
+              "end_date": "2026/06/18",
+              "weekday": "星期四",
+              "start_time": "08:00",
+              "end_time": "09:35"
+            }
+          ],
+          "classroom": "云谷校区E13-107"
+        }
+      ]
+    },
+    {
+      "course_code": "BIO 3037",
+      "course_name": "相分离与生物分子凝聚体",
+      "course_department": "BIO",
+      "classes": [
+        {
+          "class_id": "1202",
+          "teachers": ["杨培国 (Peiguo YANG)"],
+          "time_periods": [
+            {
+              "start_date": "2026/03/02",
+              "end_date": "2026/06/15",
+              "weekday": "星期一",
+              "start_time": "13:30",
+              "end_time": "15:05"
+            }
+          ],
+          "classroom": "云谷校区E13-108"
+        }
+      ]
+    },
+    {
+      "course_code": "BIO 3038",
+      "course_name": "疫苗学",
+      "course_department": "BIO",
+      "classes": [
+        {
+          "class_id": "1203",
+          "teachers": ["李大鹏 (Dapeng LI)"],
+          "time_periods": [
+            {
+              "start_date": "2026/03/02",
+              "end_date": "2026/04/20",
+              "weekday": "星期一",
+              "start_time": "13:30",
+              "end_time": "15:55"
+            }
+          ],
+          "classroom": "云谷校区E13-106"
+        }
+      ]
+    },
+    {
+      "course_code": "BIO 4810",
+      "course_name": "代谢生物学",
+      "course_department": "BIO",
+      "classes": [
+        {
+          "class_id": "1144",
+          "teachers": ["吴连锋 (Lianfeng WU)"],
+          "time_periods": [
+            {
+              "start_date": "2026/03/05",
+              "end_date": "2026/06/18",
+              "weekday": "星期四",
+              "start_time": "09:50",
+              "end_time": "12:15"
+            }
+          ],
+          "classroom": "云谷校区E10-320"
+        }
+      ]
+    },
+    {
+      "course_code": "BIO 4811",
+      "course_name": "人工智能与药物发现",
+      "course_department": "BIO",
+      "classes": [
+        {
+          "class_id": "1150",
+          "teachers": ["黄晶 (Jing HUANG)"],
+          "time_periods": [
+            
+            {
+              "start_date": "2026/03/03",
+              "end_date": "2026/06/16",
+              "weekday": "星期二",
+              "start_time": "08:00",
+              "end_time": "09:35"
+            }
+          ],
+          "classroom": "云谷校区E10-216"
+        }
+      ]
+    },
+{
+      "course_code": "BIO 4812",
+      "course_name": "流行病学导论",
+      "course_department": "BIO",
+      "classes": [
+        {
+          "class_id": "1151",
+          "teachers": ["郑钜圣 (Jusheng ZHENG)"],
+          "time_periods": [
+            {
+              "start_date": "2026/03/05",
+              "end_date": "2026/06/18",
+              "weekday": "星期四",
+              "start_time": "08:00",
+              "end_time": "09:35"
+            }
+          ],
+          "classroom": "云谷校区 E10-320"
+        }
+      ]
+    },
+    {
+      "course_code": "BIO 4813",
+      "course_name": "应用生物信息学",
+      "course_department": "BIO",
+      "classes": [
+        {
+          "class_id": "1152",
+          "teachers": ["张延晓 (Yanxiao ZHANG)"],
+          "time_periods": [
+            {
+              "start_date": "2026/03/02",
+              "end_date": "2026/06/15",
+              "weekday": "星期一",
+              "start_time": "16:10",
+              "end_time": "17:45"
+            }
+          ],
+          "classroom": "云谷校区 E10-221"
+        }
+      ]
+    },
+    {
+      "course_code": "BIO 4814",
+      "course_name": "衰老生物学",
+      "course_department": "BIO",
+      "classes": [
+        {
+          "class_id": "1153",
+          "teachers": ["张延晓 (Yanxiao ZHANG)"],
+          "time_periods": [
+            {
+              "start_date": "2026/03/05",
+              "end_date": "2026/04/23",
+              "weekday": "星期四",
+              "start_time": "09:50",
+              "end_time": "11:25"
+            }
+          ],
+          "classroom": "云谷校区 E10-215"
+        }
+      ]
+    },
+    {
+      "course_code": "BIO 4815",
+      "course_name": "蛋白质组学",
+      "course_department": "BIO",
+      "classes": [
+        {
+          "class_id": "1154",
+          "teachers": ["郭天南 (Tiannan GUO)"],
+          "time_periods": [
+            {
+              "start_date": "2026/03/02",
+              "end_date": "2026/06/15",
+              "weekday": "星期一",
+              "start_time": "09:50",
+              "end_time": "11:25"
+            }
+          ],
+          "classroom": "云谷校区 E10-215"
+        }
+      ]
+    },
+    {
+      "course_code": "BIO 4818",
+      "course_name": "干细胞与再生生物学",
+      "course_department": "BIO",
+      "classes": [
+        {
+          "class_id": "1204",
+          "teachers": ["张兵 (Bing ZHANG)"],
+          "time_periods": [
+            {
+              "start_date": "2026/03/03",
+              "end_date": "2026/06/16",
+              "weekday": "星期二",
+              "start_time": "09:50",
+              "end_time": "11:25"
+            }
+          ],
+          "classroom": "云谷校区 E10-320"
+        }
+      ]
+    },
+    {
+      "course_code": "CHEM 1002",
+      "course_name": "大学化学实验 Ⅱ",
+      "course_department": "CHEM",
+      "classes": [
+        {
+          "class_id": "1017",
+          "teachers": ["江小佳 (Xiaojia JIANG)"],
+          "time_periods": [
+            {
+              "start_date": "2026/03/05",
+              "end_date": "2026/06/18",
+              "weekday": "星期四",
+              "start_time": "13:30",
+              "end_time": "16:55"
+            }
+          ],
+          "classroom": "云谷校区 H6-426"
+        },
+        {
+          "class_id": "1018",
+          "teachers": ["江小佳 (Xiaojia JIANG)"],
+          "time_periods": [
+            {
+              "start_date": "2026/03/05",
+              "end_date": "2026/06/18",
+              "weekday": "星期四",
+              "start_time": "13:30",
+              "end_time": "16:55"
+            }
+          ],
+          "classroom": "云谷校区 H6-427"
+        }
+      ]
+    },
+    {
+      "course_code": "CHEM 1003",
+      "course_name": "化学原理 Ⅱ",
+      "course_department": "CHEM",
+      "classes": [
+        {
+          "class_id": "1021",
+          "teachers": ["张鑫 (Xin ZHANG)"],
+          "time_periods": [
+            {
+              "start_date": "2026/03/05",
+              "end_date": "2026/06/18",
+              "weekday": "星期四",
+              "start_time": "09:50",
+              "end_time": "10:35"
+            },
+            {
+              "start_date": "2026/03/03",
+              "end_date": "2026/06/16",
+              "weekday": "星期二",
+              "start_time": "09:50",
+              "end_time": "10:35"
+            },
+            {
+              "start_date": "2026/03/02",
+              "end_date": "2026/06/15",
+              "weekday": "星期一",
+              "start_time": "08:00",
+              "end_time": "09:35"
+            }
+          ],
+          "classroom": "云谷校区 E13-205"
+        }
+      ]
+    },
+    {
+      "course_code": "CHEM 1004",
+      "course_name": "基础有机化学",
+      "course_department": "CHEM",
+      "classes": [
+        {
+          "class_id": "1038",
+          "teachers": ["王盼 (Pan WANG)"],
+          "time_periods": [
+            {
+              "start_date": "2026/03/03",
+              "end_date": "2026/06/16",
+              "weekday": "星期五",
+              "start_time": "08:00",
+              "end_time": "09:35"
+            },
+            {
+              "start_date": "2026/03/06",
+              "end_date": "2026/06/19",
+              "weekday": "星期二",
+              "start_time": "10:40",
+              "end_time": "12:15"
+            }
+          ],
+          "classroom": "云谷校区 E13-129"
+        }
+      ]
+    },
+    {
+      "course_code": "CHEM 1006",
+      "course_name": "化学概论",
+      "course_department": "CHEM",
+      "classes": [
+        {
+          "class_id": "1041",
+          "teachers": ["CHRYSTALLENI HADJICHARALAMBOUS"],
+          "time_periods": [
+            {
+              "start_date": "2026/03/06",
+              "end_date": "2026/06/19",
+              "weekday": "星期五",
+              "start_time": "16:10",
+              "end_time": "16:55"
+            },
+            {
+              "start_date": "2026/03/05",
+              "end_date": "2026/06/18",
+              "weekday": "星期四",
+              "start_time": "10:40",
+              "end_time": "12:15"
+            }
+          ],
+          "classroom": "云谷校区 E13-129"
+        }
+      ]
+    },
+    {
+      "course_code": "CHEM 2002",
+      "course_name": "有机化学 Ⅱ",
+      "course_department": "CHEM",
+      "classes": [
+        {
+          "class_id": "1056",
+          "teachers": ["洪本科 (Benke HONG)"],
+          "time_periods": [
+            {
+              "start_date": "2026/03/06",
+              "end_date": "2026/06/19",
+              "weekday": "星期五",
+              "start_time": "13:30",
+              "end_time": "15:05"
+            },
+            {
+              "start_date": "2026/03/04",
+              "end_date": "2026/06/17",
+              "weekday": "星期三",
+              "start_time": "08:00",
+              "end_time": "09:35"
+            }
+          ],
+          "classroom": "云谷校区 E13-202"
+        }
+      ]
+    },
+    {
+      "course_code": "CHEM 2003",
+      "course_name": "有机化学实验 Ⅱ",
+      "course_department": "CHEM",
+      "classes": [
+        {
+          "class_id": "1057",
+          "teachers": ["Tan Karen"],
+          "time_periods": [
+            {
+              "start_date": "2026/03/03",
+              "end_date": "2026/06/16",
+              "weekday": "星期二",
+              "start_time": "13:30",
+              "end_time": "16:55"
+            }
+          ],
+          "classroom": "云谷校区 H6-431"
+        }
+      ]
+    },
+    {
+      "course_code": "CHEM 3001",
+      "course_name": "物理化学与仪器分析化学实验",
+      "course_department": "CHEM",
+      "classes": [
+        {
+          "class_id": "1058",
+          "teachers": ["江小佳 (Xiaojia JIANG)"],
+          "time_periods": [
+            {
+              "start_date": "2026/03/02",
+              "end_date": "2026/06/15",
+              "weekday": "星期一",
+              "start_time": "13:30",
+              "end_time": "16:55"
+            }
+          ],
+          "classroom": "云谷校区 H6-422"
+        }
+      ]
+    },
+    {
+      "course_code": "HUM 1006",
+      "course_name": "20 世纪世界史",
+      "course_department": "HUM",
+      "classes": [
+        {
+          "class_id": "1019",
+          "teachers": ["陈波"],
+          "time_periods": [
+            {
+              "start_date": "2026/03/03",
+              "end_date": "2026/06/16",
+              "weekday": "星期二",
+              "start_time": "18:30",
+              "end_time": "20:55"
+            }
+          ],
+          "classroom": "云谷校区 E13-103"
+        }
+      ]
+    },
+    {
+      "course_code": "MSE 4804",
+      "course_name": "化学冶金",
+      "course_department": "MSE",
+      "classes": [
+        {
+          "class_id": "1103",
+          "teachers": ["杨肖 (Xiao YANG)"],
+          "time_periods": [
+            {
+              "start_date": "2026/03/04",
+              "end_date": "2026/06/17",
+              "weekday": "星期三",
+              "start_time": "09:50",
+              "end_time": "12:15"
+            }
+          ],
+          "classroom": "云谷校区 E10-304"
+        }
+      ]
+    },
+    {
+      "course_code": "MSE 4803",
+      "course_name": "生物医学工程中的高分子生物材料原理和应用",
+      "course_department": "MSE",
+      "classes": [
+        {
+          "class_id": "1101",
+          "teachers": ["杨健 (Jian YANG)"],
+          "time_periods": [
+            {
+              "start_date": "2026/03/02",
+              "end_date": "2026/06/15",
+              "weekday": "星期一",
+              "start_time": "18:30",
+              "end_time": "20:55"
+            }
+          ],
+          "classroom": "云谷校区 E10-304"
+        }
+      ]
+    },
+    {
+      "course_code": "MSE 4805",
+      "course_name": "有机功能材料",
+      "course_department": "MSE",
+      "classes": [
+        {
+          "class_id": "1109",
+          "teachers": ["金泽鑫 (Zexin JIN)"],
+          "time_periods": [
+            {
+              "start_date": "2026/03/02",
+              "end_date": "2026/06/15",
+              "weekday": "星期一",
+              "start_time": "13:30",
+              "end_time": "15:55"
+            }
+          ],
+          "classroom": "云谷校区 E10-205"
+        }
+      ]
+    },
+    {
+      "course_code": "MSE 4814",
+      "course_name": "生物传感系统",
+      "course_department": "MSE",
+      "classes": [
+        {
+          "class_id": "1179",
+          "teachers": ["林海松 (Haisong LIN)"],
+          "time_periods": [
+            {
+              "start_date": "2026/03/03",
+              "end_date": "2026/06/16",
+              "weekday": "星期二",
+              "start_time": "18:30",
+              "end_time": "20:55"
+            }
+          ],
+          "classroom": "云谷校区 E10-205"
+        }
+      ]
+    },
+    {
+      "course_code": "PHE 1005",
+      "course_name": "体育 -篮球（中级）",
+      "course_department": "PHE",
+      "classes": [
+        {
+          "class_id": "1205",
+          "teachers": ["弓烨弘 (Yehong GONG)"],
+          "time_periods": [
+            {
+              "start_date": "2026/03/03",
+              "end_date": "2026/06/16",
+              "weekday": "星期二",
+              "start_time": "18:30",
+              "end_time": "20:05"
+            }
+          ],
+          "classroom": "云谷校区 J2 篮球场"
+        },
+        {
+          "class_id": "1206",
+          "teachers": ["白刚 (Gang BAI)"],
+          "time_periods": [
+            {
+              "start_date": "2026/03/03",
+              "end_date": "2026/06/16",
+              "weekday": "星期二",
+              "start_time": "18:30",
+              "end_time": "20:05"
+            }
+          ],
+          "classroom": "云谷校区 J2 篮球场"
+        }
+      ]
+    },
+    {
+      "course_code": "PHE 1004",
+      "course_name": "体育 -篮球（初级）",
+      "course_department": "PHE",
+      "classes": [
+        {
+          "class_id": "1085",
+          "teachers": ["弓烨弘 (Yehong GONG)"],
+          "time_periods": [
+            {
+              "start_date": "2026/03/05",
+              "end_date": "2026/06/18",
+              "weekday": "星期四",
+              "start_time": "18:30",
+              "end_time": "20:05"
+            }
+          ],
+          "classroom": "云谷校区 J2 篮球场"
+        }
+      ]
+    },
+    {
+      "course_code": "PHE 1006",
+      "course_name": "体育 -极限飞盘",
+      "course_department": "PHE",
+      "classes": [
+        {
+          "class_id": "1086",
+          "teachers": ["弓烨弘 (Yehong GONG)"],
+          "time_periods": [
+            {
+              "start_date": "2026/03/02",
+              "end_date": "2026/06/15",
+              "weekday": "星期一",
+              "start_time": "16:10",
+              "end_time": "17:45"
+            }
+          ],
+          "classroom": "云谷校区足球场"
+        }
+      ]
+    },
+    {
+      "course_code": "PHE 1007",
+      "course_name": "体育 -足球（初级）",
+      "course_department": "PHE",
+      "classes": [
+        {
+          "class_id": "1087",
+          "teachers": ["弓烨弘 (Yehong GONG)"],
+          "time_periods": [
+            {
+              "start_date": "2026/03/03",
+              "end_date": "2026/06/16",
+              "weekday": "星期二",
+              "start_time": "16:10",
+              "end_time": "17:45"
+            }
+          ],
+          "classroom": "云谷校区足球场"
+        }
+      ]
+    },
+    {
+      "course_code": "PHE 1008",
+      "course_name": "体育 -足球（中级）",
+      "course_department": "PHE",
+      "classes": [
+        {
+          "class_id": "1088",
+          "teachers": ["弓烨弘 (Yehong GONG)"],
+          "time_periods": [
+            {
+              "start_date": "2026/03/02",
+              "end_date": "2026/06/15",
+              "weekday": "星期一",
+              "start_time": "18:30",
+              "end_time": "20:05"
+            }
+          ],
+          "classroom": "云谷校区足球场"
+        }
+      ]
+    },
+    {
+      "course_code": "PHE 1009",
+      "course_name": "体育 -健美操",
+      "course_department": "PHE",
+      "classes": [
+        {
+          "class_id": "1089",
+          "teachers": ["张烨 (Ye ZHANG)"],
+          "time_periods": [
+            {
+              "start_date": "2026/03/06",
+              "end_date": "2026/06/19",
+              "weekday": "星期五",
+              "start_time": "13:30",
+              "end_time": "15:05"
+            }
+          ],
+          "classroom": "云谷校区 H5-105 舞蹈室"
+        },
+        {
+          "class_id": "1090",
+          "teachers": ["张烨 (Ye ZHANG)"],
+          "time_periods": [
+            {
+              "start_date": "2026/03/05",
+              "end_date": "2026/06/18",
+              "weekday": "星期四",
+              "start_time": "18:30",
+              "end_time": "20:05"
+            }
+          ],
+          "classroom": "云谷校区 H5-105 舞蹈室"
+        }
+      ]
+    },
+    {
+      "course_code": "PHE 1010",
+      "course_name": "体育 -体育舞蹈（伦巴舞）",
+      "course_department": "PHE",
+      "classes": [
+        {
+          "class_id": "1091",
+          "teachers": ["张烨 (Ye ZHANG)"],
+          "time_periods": [
+            {
+              "start_date": "2026/03/05",
+              "end_date": "2026/06/18",
+              "weekday": "星期四",
+              "start_time": "16:10",
+              "end_time": "17:45"
+            }
+          ],
+          "classroom": "云谷校区 H5-105 舞蹈室"
+        }
+      ]
+    },
+    {
+      "course_code": "PHE 1012",
+      "course_name": "体育 -瑜伽",
+      "course_department": "PHE",
+      "classes": [
+        {
+          "class_id": "1092",
+          "teachers": ["张烨 (Ye ZHANG)"],
+          "time_periods": [
+            {
+              "start_date": "2026/03/03",
+              "end_date": "2026/06/16",
+              "weekday": "星期二",
+              "start_time": "16:10",
+              "end_time": "17:45"
+            }
+          ],
+          "classroom": "H4 本科生 δ 书院负一层"
+        }
+      ]
+    },
+    {
+      "course_code": "PHE 1013",
+      "course_name": "体育 -形体",
+      "course_department": "PHE",
+      "classes": [
+        {
+          "class_id": "1093",
+          "teachers": ["张烨 (Ye ZHANG)"],
+          "time_periods": [
+            {
+              "start_date": "2026/03/04",
+              "end_date": "2026/06/17",
+              "weekday": "星期三",
+              "start_time": "18:30",
+              "end_time": "20:05"
+            }
+          ],
+          "classroom": "云谷校区 H5-105 舞蹈室"
+        },
+        {
+          "class_id": "1094",
+          "teachers": ["张烨 (Ye ZHANG)"],
+          "time_periods": [
+            {
+              "start_date": "2026/03/06",
+              "end_date": "2026/06/19",
+              "weekday": "星期五",
+              "start_time": "16:10",
+              "end_time": "17:45"
+            }
+          ],
+          "classroom": "云谷校区 H5-105 舞蹈室"
+        }
+      ]
+    }
+  ]
+}
