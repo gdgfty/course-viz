@@ -7,7 +7,9 @@
       "classes": [
         {
           "class_id": "1095",
-          "teachers": ["白刚 (Gang BAI)"],
+          "teachers": [
+            "白刚 (Gang BAI)"
+          ],
           "time_periods": [
             {
               "start_date": "2026/03/03",
@@ -28,7 +30,9 @@
       "classes": [
         {
           "class_id": "1114",
-          "teachers": ["弓烨弘 (Yehong GONG)"],
+          "teachers": [
+            "弓烨弘 (Yehong GONG)"
+          ],
           "time_periods": [
             {
               "start_date": "2026/03/04",
@@ -42,7 +46,9 @@
         },
         {
           "class_id": "1115",
-          "teachers": ["弓烨弘 (Yehong GONG)"],
+          "teachers": [
+            "弓烨弘 (Yehong GONG)"
+          ],
           "time_periods": [
             {
               "start_date": "2026/03/05",
@@ -63,7 +69,9 @@
       "classes": [
         {
           "class_id": "1116",
-          "teachers": ["张烨 (Ye ZHANG)"],
+          "teachers": [
+            "张烨 (Ye ZHANG)"
+          ],
           "time_periods": [
             {
               "start_date": "2026/03/03",
@@ -84,7 +92,9 @@
       "classes": [
         {
           "class_id": "1133",
-          "teachers": ["白刚 (Gang BAI)"],
+          "teachers": [
+            "白刚 (Gang BAI)"
+          ],
           "time_periods": [
             {
               "start_date": "2026/03/02",
@@ -105,7 +115,9 @@
       "classes": [
         {
           "class_id": "1134",
-          "teachers": ["白刚 (Gang BAI)"],
+          "teachers": [
+            "白刚 (Gang BAI)"
+          ],
           "time_periods": [
             {
               "start_date": "2026/03/05",
@@ -126,7 +138,9 @@
       "classes": [
         {
           "class_id": "1135",
-          "teachers": ["白刚 (Gang BAI)"],
+          "teachers": [
+            "白刚 (Gang BAI)"
+          ],
           "time_periods": [
             {
               "start_date": "2026/03/02",
@@ -147,7 +161,9 @@
       "classes": [
         {
           "class_id": "1142",
-          "teachers": ["白刚 (Gang BAI)"],
+          "teachers": [
+            "白刚 (Gang BAI)"
+          ],
           "time_periods": [
             {
               "start_date": "2026/03/04",
@@ -168,7 +184,9 @@
       "classes": [
         {
           "class_id": "1020",
-          "teachers": ["汪晨波"],
+          "teachers": [
+            "汪晨波"
+          ],
           "time_periods": [
             {
               "start_date": "2026/03/02",
@@ -189,7 +207,9 @@
       "classes": [
         {
           "class_id": "1025",
-          "teachers": ["叶德磊"],
+          "teachers": [
+            "叶德磊"
+          ],
           "time_periods": [
             {
               "start_date": "2026/03/05",
@@ -210,7 +230,9 @@
       "classes": [
         {
           "class_id": "1037",
-          "teachers": ["杨一帆"],
+          "teachers": [
+            "杨一帆"
+          ],
           "time_periods": [
             {
               "start_date": "2026/03/05",
@@ -231,7 +253,9 @@
       "classes": [
         {
           "class_id": "1043",
-          "teachers": ["戴文标 (Wenbiao DAI)"],
+          "teachers": [
+            "戴文标 (Wenbiao DAI)"
+          ],
           "time_periods": [
             {
               "start_date": "2026/03/03",
@@ -252,7 +276,10 @@
       "classes": [
         {
           "class_id": "1136",
-          "teachers": ["戴文标 (Wenbiao DAI)", "金光耀"],
+          "teachers": [
+            "戴文标 (Wenbiao DAI)",
+            "金光耀"
+          ],
           "time_periods": [
             {
               "start_date": "2026/03/05",
@@ -266,7 +293,10 @@
         },
         {
           "class_id": "1137",
-          "teachers": ["戴文标 (Wenbiao DAI)", "金光耀"],
+          "teachers": [
+            "戴文标 (Wenbiao DAI)",
+            "金光耀"
+          ],
           "time_periods": [
             {
               "start_date": "2026/03/05",
@@ -280,7 +310,10 @@
         },
         {
           "class_id": "1138",
-          "teachers": ["戴文标 (Wenbiao DAI)", "金光耀"],
+          "teachers": [
+            "戴文标 (Wenbiao DAI)",
+            "金光耀"
+          ],
           "time_periods": [
             {
               "start_date": "2026/03/04",
@@ -301,7 +334,9 @@
       "classes": [
         {
           "class_id": "1338",
-          "teachers": ["仇建 (Jian QIU)"],
+          "teachers": [
+            "仇建 (Jian QIU)"
+          ],
           "time_periods": [
             {
               "start_date": "2026/03/14",
@@ -322,7 +357,9 @@
       "classes": [
         {
           "class_id": "1339",
-          "teachers": ["仇建 (Jian QIU)"],
+          "teachers": [
+            "仇建 (Jian QIU)"
+          ],
           "time_periods": [
             {
               "start_date": "2026/03/14",
@@ -343,7 +380,9 @@
       "classes": [
         {
           "class_id": "1117",
-          "teachers": ["吴泰霖 (Tailin WU)"],
+          "teachers": [
+            "吴泰霖 (Tailin WU)"
+          ],
           "time_periods": [
             {
               "start_date": "2026/03/05",
@@ -364,7 +403,9 @@
       "classes": [
         {
           "class_id": "1120",
-          "teachers": ["张驰 (Chi ZHANG)"],
+          "teachers": [
+            "张驰 (Chi ZHANG)"
+          ],
           "time_periods": [
             {
               "start_date": "2026/03/02",
@@ -385,7 +426,20 @@
       "classes": [
         {
           "class_id": "1143",
-          "teachers": ["何斌 (Bin HE)", "邹云志 (Yunzhi ZOU)", "权新峰 (Xinfeng QUAN)", "张雅彬 (Yabin ZHANG)", "GUOLONG LAI", "林白 (Bai LIN)", "笪舒扬 (Shuyang DA)", "王璟 (Jing WANG)", "俞韫烨 (Yunye YU)", "王潇鸿 (Xiaohong WANG)", "张岳 (Yue ZHANG)", "仇建 (Jian QIU)"],
+          "teachers": [
+            "何斌 (Bin HE)",
+            "邹云志 (Yunzhi ZOU)",
+            "权新峰 (Xinfeng QUAN)",
+            "张雅彬 (Yabin ZHANG)",
+            "GUOLONG LAI",
+            "林白 (Bai LIN)",
+            "笪舒扬 (Shuyang DA)",
+            "王璟 (Jing WANG)",
+            "俞韫烨 (Yunye YU)",
+            "王潇鸿 (Xiaohong WANG)",
+            "张岳 (Yue ZHANG)",
+            "仇建 (Jian QIU)"
+          ],
           "time_periods": [
             {
               "start_date": "2026/03/03",
@@ -406,7 +460,9 @@
       "classes": [
         {
           "class_id": "1002",
-          "teachers": ["潘雨 (Yu PAN)"],
+          "teachers": [
+            "潘雨 (Yu PAN)"
+          ],
           "time_periods": [
             {
               "start_date": "2026/03/06",
@@ -420,7 +476,9 @@
         },
         {
           "class_id": "1003",
-          "teachers": ["潘雨 (Yu PAN)"],
+          "teachers": [
+            "潘雨 (Yu PAN)"
+          ],
           "time_periods": [
             {
               "start_date": "2026/03/05",
@@ -434,7 +492,9 @@
         },
         {
           "class_id": "1004",
-          "teachers": ["潘雨 (Yu PAN)"],
+          "teachers": [
+            "潘雨 (Yu PAN)"
+          ],
           "time_periods": [
             {
               "start_date": "2026/03/03",
@@ -455,7 +515,11 @@
       "classes": [
         {
           "class_id": "1022",
-          "teachers": ["廖亦宏 (Yihong LIAO)", "潘雨 (Yu PAN)", "吕有志 (Youzhi LYU)"],
+          "teachers": [
+            "廖亦宏 (Yihong LIAO)",
+            "潘雨 (Yu PAN)",
+            "吕有志 (Youzhi LYU)"
+          ],
           "time_periods": [
             {
               "start_date": "2026/05/25",
@@ -469,7 +533,11 @@
         },
         {
           "class_id": "1023",
-          "teachers": ["廖亦宏 (Yihong LIAO)", "潘雨 (Yu PAN)", "吕有志 (Youzhi LYU)"],
+          "teachers": [
+            "廖亦宏 (Yihong LIAO)",
+            "潘雨 (Yu PAN)",
+            "吕有志 (Youzhi LYU)"
+          ],
           "time_periods": [
             {
               "start_date": "2026/04/29",
@@ -497,7 +565,11 @@
         },
         {
           "class_id": "1024",
-          "teachers": ["廖亦宏 (Yihong LIAO)", "潘雨 (Yu PAN)", "吕有志 (Youzhi LYU)"],
+          "teachers": [
+            "廖亦宏 (Yihong LIAO)",
+            "潘雨 (Yu PAN)",
+            "吕有志 (Youzhi LYU)"
+          ],
           "time_periods": [
             {
               "start_date": "2026/04/29",
@@ -532,7 +604,11 @@
       "classes": [
         {
           "class_id": "1207",
-          "teachers": ["廖亦宏 (Yihong LIAO)", "潘雨 (Yu PAN)", "吕有志 (Youzhi LYU)"],
+          "teachers": [
+            "廖亦宏 (Yihong LIAO)",
+            "潘雨 (Yu PAN)",
+            "吕有志 (Youzhi LYU)"
+          ],
           "time_periods": [
             {
               "start_date": "2026/05/25",
@@ -546,7 +622,11 @@
         },
         {
           "class_id": "1208",
-          "teachers": ["廖亦宏 (Yihong LIAO)", "潘雨 (Yu PAN)", "吕有志 (Youzhi LYU)"],
+          "teachers": [
+            "廖亦宏 (Yihong LIAO)",
+            "潘雨 (Yu PAN)",
+            "吕有志 (Youzhi LYU)"
+          ],
           "time_periods": [
             {
               "start_date": "2026/04/29",
@@ -574,7 +654,11 @@
         },
         {
           "class_id": "1209",
-          "teachers": ["廖亦宏 (Yihong LIAO)", "潘雨 (Yu PAN)", "吕有志 (Youzhi LYU)"],
+          "teachers": [
+            "廖亦宏 (Yihong LIAO)",
+            "潘雨 (Yu PAN)",
+            "吕有志 (Youzhi LYU)"
+          ],
           "time_periods": [
             {
               "start_date": "2026/04/29",
@@ -609,7 +693,9 @@
       "classes": [
         {
           "class_id": "1033",
-          "teachers": ["戴文标 (Wenbiao DAI)"],
+          "teachers": [
+            "戴文标 (Wenbiao DAI)"
+          ],
           "time_periods": [
             {
               "start_date": "2026/03/02",
@@ -630,7 +716,12 @@
       "classes": [
         {
           "class_id": "1039",
-          "teachers": ["廖亦宏 (Yihong LIAO)", "潘雨 (Yu PAN)", "吕有志 (Youzhi LYU)", "仇建 (Jian QIU)"],
+          "teachers": [
+            "廖亦宏 (Yihong LIAO)",
+            "潘雨 (Yu PAN)",
+            "吕有志 (Youzhi LYU)",
+            "仇建 (Jian QIU)"
+          ],
           "time_periods": [
             {
               "start_date": "2026/04/13",
@@ -644,7 +735,12 @@
         },
         {
           "class_id": "1040",
-          "teachers": ["廖亦宏 (Yihong LIAO)", "潘雨 (Yu PAN)", "吕有志 (Youzhi LYU)", "仇建 (Jian QIU)"],
+          "teachers": [
+            "廖亦宏 (Yihong LIAO)",
+            "潘雨 (Yu PAN)",
+            "吕有志 (Youzhi LYU)",
+            "仇建 (Jian QIU)"
+          ],
           "time_periods": [
             {
               "start_date": "2026/04/13",
@@ -665,7 +761,9 @@
       "classes": [
         {
           "class_id": "1078",
-          "teachers": ["金光耀"],
+          "teachers": [
+            "金光耀"
+          ],
           "time_periods": [
             {
               "start_date": "2026/03/02",
@@ -686,7 +784,11 @@
       "classes": [
         {
           "class_id": "1042",
-          "teachers": ["廖亦宏 (Yihong LIAO)", "潘雨 (Yu PAN)", "吕有志 (Youzhi LYU)"],
+          "teachers": [
+            "廖亦宏 (Yihong LIAO)",
+            "潘雨 (Yu PAN)",
+            "吕有志 (Youzhi LYU)"
+          ],
           "time_periods": [
             {
               "start_date": "2026/03/02",
@@ -697,6 +799,22 @@
             }
           ],
           "classroom": "云谷校区E13-130"
+        },
+        {
+          "class_id": "1348",
+          "teachers": [
+            "孙晶"
+          ],
+          "time_periods": [
+            {
+              "start_date": "2026/03/03",
+              "end_date": "2026/06/16",
+              "weekday": "星期二",
+              "start_time": "13:30",
+              "end_time": "15:55"
+            }
+          ],
+          "classroom": "云谷校区 E13-115"
         }
       ]
     },
@@ -707,7 +825,9 @@
       "classes": [
         {
           "class_id": "1079",
-          "teachers": ["王来法 (Laifa Wang)"],
+          "teachers": [
+            "王来法 (Laifa Wang)"
+          ],
           "time_periods": [
             {
               "start_date": "2026/03/06",
@@ -728,7 +848,10 @@
       "classes": [
         {
           "class_id": "1080",
-          "teachers": ["廖亦宏 (Yihong LIAO)", "吕有志 (Youzhi LYU)"],
+          "teachers": [
+            "廖亦宏 (Yihong LIAO)",
+            "吕有志 (Youzhi LYU)"
+          ],
           "time_periods": [
             {
               "start_date": "2026/03/06",
@@ -739,6 +862,23 @@
             }
           ],
           "classroom": "云谷校区E13-129"
+        },
+        {
+          "class_id": "1349",
+          "teachers": [
+            "吕有志 (Youzhi LYU)",
+            "廖亦宏 (Yihong LIAO)"
+          ],
+          "time_periods": [
+            {
+              "start_date": "2026/03/05",
+              "end_date": "2026/06/18",
+              "weekday": "星期四",
+              "start_time": "13:30",
+              "end_time": "15:55"
+            }
+          ],
+          "classroom": "云谷校区 E13-119"
         }
       ]
     },
@@ -749,7 +889,9 @@
       "classes": [
         {
           "class_id": "1005",
-          "teachers": ["何斌 (Bin HE)"],
+          "teachers": [
+            "何斌 (Bin HE)"
+          ],
           "time_periods": [
             {
               "start_date": "2026/03/02",
@@ -763,7 +905,9 @@
         },
         {
           "class_id": "1006",
-          "teachers": ["何斌 (Bin HE)"],
+          "teachers": [
+            "何斌 (Bin HE)"
+          ],
           "time_periods": [
             {
               "start_date": "2026/03/02",
@@ -784,7 +928,10 @@
       "classes": [
         {
           "class_id": "1026",
-          "teachers": ["何斌 (Bin HE)", "王璟 (Jing WANG)"],
+          "teachers": [
+            "何斌 (Bin HE)",
+            "王璟 (Jing WANG)"
+          ],
           "time_periods": [
             {
               "start_date": "2026/03/05",
@@ -798,7 +945,10 @@
         },
         {
           "class_id": "1027",
-          "teachers": ["周晓青 (Xiaoqing ZHOU)", "王璟 (Jing WANG)"],
+          "teachers": [
+            "周晓青 (Xiaoqing ZHOU)",
+            "王璟 (Jing WANG)"
+          ],
           "time_periods": [
             {
               "start_date": "2026/03/02",
@@ -812,7 +962,10 @@
         },
         {
           "class_id": "1028",
-          "teachers": ["周晓青 (Xiaoqing ZHOU)", "王璟 (Jing WANG)"],
+          "teachers": [
+            "周晓青 (Xiaoqing ZHOU)",
+            "王璟 (Jing WANG)"
+          ],
           "time_periods": [
             {
               "start_date": "2026/03/03",
@@ -826,7 +979,10 @@
         },
         {
           "class_id": "1029",
-          "teachers": ["ARTHUR MORAES", "王璟 (Jing WANG)"],
+          "teachers": [
+            "ARTHUR MORAES",
+            "王璟 (Jing WANG)"
+          ],
           "time_periods": [
             {
               "start_date": "2026/03/03",
@@ -840,7 +996,10 @@
         },
         {
           "class_id": "1030",
-          "teachers": ["王芳 (Fang WANG)", "王璟 (Jing WANG)"],
+          "teachers": [
+            "王芳 (Fang WANG)",
+            "王璟 (Jing WANG)"
+          ],
           "time_periods": [
             {
               "start_date": "2026/03/03",
@@ -854,7 +1013,10 @@
         },
         {
           "class_id": "1031",
-          "teachers": ["王芳 (Fang WANG)", "王璟 (Jing WANG)"],
+          "teachers": [
+            "王芳 (Fang WANG)",
+            "王璟 (Jing WANG)"
+          ],
           "time_periods": [
             {
               "start_date": "2026/03/05",
@@ -868,7 +1030,10 @@
         },
         {
           "class_id": "1032",
-          "teachers": ["王芳 (Fang WANG)", "王璟 (Jing WANG)"],
+          "teachers": [
+            "王芳 (Fang WANG)",
+            "王璟 (Jing WANG)"
+          ],
           "time_periods": [
             {
               "start_date": "2026/03/02",
@@ -889,7 +1054,9 @@
       "classes": [
         {
           "class_id": "1147",
-          "teachers": ["王璟 (Jing WANG)"],
+          "teachers": [
+            "王璟 (Jing WANG)"
+          ],
           "time_periods": [
             {
               "start_date": "2026/03/02",
@@ -917,7 +1084,9 @@
       "classes": [
         {
           "class_id": "1156",
-          "teachers": ["ARTHUR MORAES"],
+          "teachers": [
+            "ARTHUR MORAES"
+          ],
           "time_periods": [
             {
               "start_date": "2026/03/02",
@@ -952,7 +1121,9 @@
       "classes": [
         {
           "class_id": "1034",
-          "teachers": ["林效 (Xiao LIN)"],
+          "teachers": [
+            "林效 (Xiao LIN)"
+          ],
           "time_periods": [
             {
               "start_date": "2026/03/02",
@@ -980,7 +1151,9 @@
       "classes": [
         {
           "class_id": "1076",
-          "teachers": ["QIAN HONG"],
+          "teachers": [
+            "QIAN HONG"
+          ],
           "time_periods": [
             {
               "start_date": "2026/03/03",
@@ -1008,7 +1181,9 @@
       "classes": [
         {
           "class_id": "1158",
-          "teachers": ["何斌 (Bin HE)"],
+          "teachers": [
+            "何斌 (Bin HE)"
+          ],
           "time_periods": [
             {
               "start_date": "2026/03/02",
@@ -1029,7 +1204,9 @@
         },
         {
           "class_id": "1159",
-          "teachers": ["王璟 (Jing WANG)"],
+          "teachers": [
+            "王璟 (Jing WANG)"
+          ],
           "time_periods": [
             {
               "start_date": "2026/03/02",
@@ -1050,7 +1227,9 @@
         },
         {
           "class_id": "1160",
-          "teachers": ["周晓青 (Xiaoqing ZHOU)"],
+          "teachers": [
+            "周晓青 (Xiaoqing ZHOU)"
+          ],
           "time_periods": [
             {
               "start_date": "2026/03/02",
@@ -1078,7 +1257,9 @@
       "classes": [
         {
           "class_id": "1077",
-          "teachers": ["SAVVIDIS PAVLOS"],
+          "teachers": [
+            "SAVVIDIS PAVLOS"
+          ],
           "time_periods": [
             {
               "start_date": "2026/03/03",
@@ -1106,7 +1287,9 @@
       "classes": [
         {
           "class_id": "1123",
-          "teachers": ["郑昌喜 (Changxi ZHENG)"],
+          "teachers": [
+            "郑昌喜 (Changxi ZHENG)"
+          ],
           "time_periods": [
             {
               "start_date": "2026/03/02",
@@ -1134,7 +1317,9 @@
       "classes": [
         {
           "class_id": "1197",
-          "teachers": ["施勇 (Yong SHI)"],
+          "teachers": [
+            "施勇 (Yong SHI)"
+          ],
           "time_periods": [
             {
               "start_date": "2026/03/05",
@@ -1155,7 +1340,9 @@
       "classes": [
         {
           "class_id": "1104",
-          "teachers": ["朱伟 (Wei ZHU)"],
+          "teachers": [
+            "朱伟 (Wei ZHU)"
+          ],
           "time_periods": [
             {
               "start_date": "2026/03/05",
@@ -1176,7 +1363,9 @@
       "classes": [
         {
           "class_id": "1106",
-          "teachers": ["鲍芳琳 (Fanglin BAO)"],
+          "teachers": [
+            "鲍芳琳 (Fanglin BAO)"
+          ],
           "time_periods": [
             {
               "start_date": "2026/03/03",
@@ -1204,7 +1393,9 @@
       "classes": [
         {
           "class_id": "1180",
-          "teachers": ["何柏毅 (Boyi HE)"],
+          "teachers": [
+            "何柏毅 (Boyi HE)"
+          ],
           "time_periods": [
             {
               "start_date": "2026/03/06",
@@ -1225,7 +1416,9 @@
       "classes": [
         {
           "class_id": "1181",
-          "teachers": ["孔令元 (Lingyuan KONG)"],
+          "teachers": [
+            "孔令元 (Lingyuan KONG)"
+          ],
           "time_periods": [
             {
               "start_date": "2026/03/02",
@@ -1246,7 +1439,10 @@
       "classes": [
         {
           "class_id": "1182",
-          "teachers": ["吴从军 (Congjun WU)", "刘洪光 (Hongguang LIU)"],
+          "teachers": [
+            "吴从军 (Congjun WU)",
+            "刘洪光 (Hongguang LIU)"
+          ],
           "time_periods": [
             {
               "start_date": "2026/03/03",
@@ -1267,7 +1463,10 @@
       "classes": [
         {
           "class_id": "1183",
-          "teachers": ["TORRES SERGIO ANDRES GALINDO", "李凌 (Ling LI)"],
+          "teachers": [
+            "TORRES SERGIO ANDRES GALINDO",
+            "李凌 (Ling LI)"
+          ],
           "time_periods": [
             {
               "start_date": "2026/03/02",
@@ -1288,7 +1487,9 @@
       "classes": [
         {
           "class_id": "1196",
-          "teachers": ["SHUDE MAO"],
+          "teachers": [
+            "SHUDE MAO"
+          ],
           "time_periods": [
             {
               "start_date": "2026/03/02",
@@ -1302,7 +1503,7 @@
         }
       ]
     },
-{
+    {
       "course_code": "CHEM 3002",
       "course_name": "物理化学 Ⅱ",
       "course_department": "CHEM",
@@ -2315,14 +2516,16 @@
         }
       ]
     },
-{
+    {
       "course_code": "HUM 1008",
       "course_name": "《周易》经传导读",
       "course_department": "HUM",
       "classes": [
         {
           "class_id": "1035",
-          "teachers": ["宋锡同"],
+          "teachers": [
+            "宋锡同"
+          ],
           "time_periods": [
             {
               "start_date": "2026/03/05",
@@ -2343,7 +2546,9 @@
       "classes": [
         {
           "class_id": "1036",
-          "teachers": ["王韬洋"],
+          "teachers": [
+            "王韬洋"
+          ],
           "time_periods": [
             {
               "start_date": "2026/03/02",
@@ -2364,7 +2569,9 @@
       "classes": [
         {
           "class_id": "1044",
-          "teachers": ["盛晓明 (Xiaoming SHENG)"],
+          "teachers": [
+            "盛晓明 (Xiaoming SHENG)"
+          ],
           "time_periods": [
             {
               "start_date": "2026/03/02",
@@ -2385,7 +2592,9 @@
       "classes": [
         {
           "class_id": "1097",
-          "teachers": ["GUOLONG LAI"],
+          "teachers": [
+            "GUOLONG LAI"
+          ],
           "time_periods": [
             {
               "start_date": "2026/03/05",
@@ -2399,7 +2608,9 @@
         },
         {
           "class_id": "1098",
-          "teachers": ["GUOLONG LAI"],
+          "teachers": [
+            "GUOLONG LAI"
+          ],
           "time_periods": [
             {
               "start_date": "2026/03/05",
@@ -2420,7 +2631,9 @@
       "classes": [
         {
           "class_id": "1113",
-          "teachers": ["张芳"],
+          "teachers": [
+            "张芳"
+          ],
           "time_periods": [
             {
               "start_date": "2026/03/04",
@@ -2448,7 +2661,9 @@
       "classes": [
         {
           "class_id": "1131",
-          "teachers": ["盛晓明 (Xiaoming SHENG)"],
+          "teachers": [
+            "盛晓明 (Xiaoming SHENG)"
+          ],
           "time_periods": [
             {
               "start_date": "2026/03/03",
@@ -2462,7 +2677,9 @@
         },
         {
           "class_id": "1132",
-          "teachers": ["盛晓明 (Xiaoming SHENG)"],
+          "teachers": [
+            "盛晓明 (Xiaoming SHENG)"
+          ],
           "time_periods": [
             {
               "start_date": "2026/03/04",
@@ -2483,7 +2700,9 @@
       "classes": [
         {
           "class_id": "1140",
-          "teachers": ["许志强 (Zhiqiang XU)"],
+          "teachers": [
+            "许志强 (Zhiqiang XU)"
+          ],
           "time_periods": [
             {
               "start_date": "2026/03/04",
@@ -2497,7 +2716,9 @@
         },
         {
           "class_id": "1141",
-          "teachers": ["金立 (Li JIN)"],
+          "teachers": [
+            "金立 (Li JIN)"
+          ],
           "time_periods": [
             {
               "start_date": "2026/03/05",
@@ -2518,7 +2739,9 @@
       "classes": [
         {
           "class_id": "1155",
-          "teachers": ["GUOLONG LAI"],
+          "teachers": [
+            "GUOLONG LAI"
+          ],
           "time_periods": [
             {
               "start_date": "2026/03/03",
@@ -2539,7 +2762,9 @@
       "classes": [
         {
           "class_id": "1157",
-          "teachers": ["金光耀"],
+          "teachers": [
+            "金光耀"
+          ],
           "time_periods": [
             {
               "start_date": "2026/03/03",
@@ -2560,7 +2785,9 @@
       "classes": [
         {
           "class_id": "1069",
-          "teachers": ["张雅彬 (Yabin ZHANG)"],
+          "teachers": [
+            "张雅彬 (Yabin ZHANG)"
+          ],
           "time_periods": [
             {
               "start_date": "2026/03/06",
@@ -2581,7 +2808,9 @@
         },
         {
           "class_id": "1070",
-          "teachers": ["MOUNIR HAJLI"],
+          "teachers": [
+            "MOUNIR HAJLI"
+          ],
           "time_periods": [
             {
               "start_date": "2026/03/06",
@@ -2609,7 +2838,9 @@
       "classes": [
         {
           "class_id": "1071",
-          "teachers": ["邹云志 (Yunzhi ZOU)"],
+          "teachers": [
+            "邹云志 (Yunzhi ZOU)"
+          ],
           "time_periods": [
             {
               "start_date": "2026/03/06",
@@ -2630,7 +2861,9 @@
         },
         {
           "class_id": "1072",
-          "teachers": ["林白 (Bai LIN)"],
+          "teachers": [
+            "林白 (Bai LIN)"
+          ],
           "time_periods": [
             {
               "start_date": "2026/03/06",
@@ -2658,7 +2891,9 @@
       "classes": [
         {
           "class_id": "1073",
-          "teachers": ["高一帆 (Yifan GAO)"],
+          "teachers": [
+            "高一帆 (Yifan GAO)"
+          ],
           "time_periods": [
             {
               "start_date": "2026/03/04",
@@ -2679,7 +2914,11 @@
       "classes": [
         {
           "class_id": "1112",
-          "teachers": ["陈华一 (Huayi CHEN)", "DOLCE PAOLO", "Weronika Aniela Czerniawska"],
+          "teachers": [
+            "陈华一 (Huayi CHEN)",
+            "DOLCE PAOLO",
+            "Weronika Aniela Czerniawska"
+          ],
           "time_periods": [
             {
               "start_date": "2026/03/06",
@@ -2714,7 +2953,9 @@
       "classes": [
         {
           "class_id": "1121",
-          "teachers": ["张雅彬 (Yabin ZHANG)"],
+          "teachers": [
+            "张雅彬 (Yabin ZHANG)"
+          ],
           "time_periods": [
             {
               "start_date": "2026/03/02",
@@ -2728,7 +2969,9 @@
         },
         {
           "class_id": "1122",
-          "teachers": ["MOUNIR HAJLI"],
+          "teachers": [
+            "MOUNIR HAJLI"
+          ],
           "time_periods": [
             {
               "start_date": "2026/03/02",
@@ -2749,7 +2992,9 @@
       "classes": [
         {
           "class_id": "1118",
-          "teachers": ["邹云志 (Yunzhi ZOU)"],
+          "teachers": [
+            "邹云志 (Yunzhi ZOU)"
+          ],
           "time_periods": [
             {
               "start_date": "2026/03/02",
@@ -2763,7 +3008,9 @@
         },
         {
           "class_id": "1119",
-          "teachers": ["林白 (Bai LIN)"],
+          "teachers": [
+            "林白 (Bai LIN)"
+          ],
           "time_periods": [
             {
               "start_date": "2026/03/02",
@@ -2784,7 +3031,9 @@
       "classes": [
         {
           "class_id": "1124",
-          "teachers": ["赵以庚 (Yigeng ZHAO)"],
+          "teachers": [
+            "赵以庚 (Yigeng ZHAO)"
+          ],
           "time_periods": [
             {
               "start_date": "2026/03/05",
@@ -2805,7 +3054,9 @@
       "classes": [
         {
           "class_id": "1096",
-          "teachers": ["古星 (Xing GU)"],
+          "teachers": [
+            "古星 (Xing GU)"
+          ],
           "time_periods": [
             {
               "start_date": "2026/03/05",
@@ -2826,7 +3077,9 @@
       "classes": [
         {
           "class_id": "1198",
-          "teachers": ["Weronika Aniela Czerniawska"],
+          "teachers": [
+            "Weronika Aniela Czerniawska"
+          ],
           "time_periods": [
             {
               "start_date": "2026/03/05",
@@ -2854,7 +3107,9 @@
       "classes": [
         {
           "class_id": "1184",
-          "teachers": ["MOUNIR HAJLI"],
+          "teachers": [
+            "MOUNIR HAJLI"
+          ],
           "time_periods": [
             {
               "start_date": "2026/03/03",
@@ -2875,7 +3130,9 @@
       "classes": [
         {
           "class_id": "1185",
-          "teachers": ["MOUNIR HAJLI"],
+          "teachers": [
+            "MOUNIR HAJLI"
+          ],
           "time_periods": [
             {
               "start_date": "2026/03/06",
@@ -2896,7 +3153,9 @@
       "classes": [
         {
           "class_id": "1186",
-          "teachers": ["吴杰"],
+          "teachers": [
+            "吴杰"
+          ],
           "time_periods": [
             {
               "start_date": "2026/04/27",
@@ -2924,7 +3183,9 @@
       "classes": [
         {
           "class_id": "1188",
-          "teachers": ["韩骥原 (Jiyuan HAN)"],
+          "teachers": [
+            "韩骥原 (Jiyuan HAN)"
+          ],
           "time_periods": [
             {
               "start_date": "2026/03/06",
@@ -2945,7 +3206,9 @@
       "classes": [
         {
           "class_id": "1189",
-          "teachers": ["周珍楠 (Zhennan ZHOU)"],
+          "teachers": [
+            "周珍楠 (Zhennan ZHOU)"
+          ],
           "time_periods": [
             {
               "start_date": "2026/03/03",
@@ -2966,7 +3229,9 @@
       "classes": [
         {
           "class_id": "1190",
-          "teachers": ["IVAN FESENKO"],
+          "teachers": [
+            "IVAN FESENKO"
+          ],
           "time_periods": [
             {
               "start_date": "2026/03/03",
@@ -2987,7 +3252,9 @@
       "classes": [
         {
           "class_id": "1191",
-          "teachers": ["叶谨赫"],
+          "teachers": [
+            "叶谨赫"
+          ],
           "time_periods": [
             {
               "start_date": "2026/03/03",
@@ -3015,7 +3282,9 @@
       "classes": [
         {
           "class_id": "1193",
-          "teachers": ["袁原 (Yuan YUAN)"],
+          "teachers": [
+            "袁原 (Yuan YUAN)"
+          ],
           "time_periods": [
             {
               "start_date": "2026/03/06",
@@ -3036,7 +3305,9 @@
       "classes": [
         {
           "class_id": "1194",
-          "teachers": ["EMMANUEL ANTOINE ARA LECOUTURIER"],
+          "teachers": [
+            "EMMANUEL ANTOINE ARA LECOUTURIER"
+          ],
           "time_periods": [
             {
               "start_date": "2026/03/05",
@@ -3057,7 +3328,12 @@
       "classes": [
         {
           "class_id": "1146",
-          "teachers": ["董晨 (Chen DONG)", "Ming Xiaoming Zhang", "刘强 (Qiang LIU)", "郭天南 (Tiannan GUO)"],
+          "teachers": [
+            "董晨 (Chen DONG)",
+            "Ming Xiaoming Zhang",
+            "刘强 (Qiang LIU)",
+            "郭天南 (Tiannan GUO)"
+          ],
           "time_periods": [
             {
               "start_date": "2026/03/05",
@@ -3078,7 +3354,9 @@
       "classes": [
         {
           "class_id": "1074",
-          "teachers": ["朱一舟 (Yizhou ZHU)"],
+          "teachers": [
+            "朱一舟 (Yizhou ZHU)"
+          ],
           "time_periods": [
             {
               "start_date": "2026/03/05",
@@ -3106,7 +3384,9 @@
       "classes": [
         {
           "class_id": "1075",
-          "teachers": ["薛时磊 (Shilei XUE)"],
+          "teachers": [
+            "薛时磊 (Shilei XUE)"
+          ],
           "time_periods": [
             {
               "start_date": "2026/03/03",
@@ -3127,7 +3407,9 @@
       "classes": [
         {
           "class_id": "1125",
-          "teachers": ["付海林 (Hailin FU)"],
+          "teachers": [
+            "付海林 (Hailin FU)"
+          ],
           "time_periods": [
             {
               "start_date": "2026/03/06",
@@ -3148,7 +3430,10 @@
       "classes": [
         {
           "class_id": "1099",
-          "teachers": ["杨尧 (Yao YANG)", "冯赵骞琦 (Zhaoqianqi FENG)"],
+          "teachers": [
+            "杨尧 (Yao YANG)",
+            "冯赵骞琦 (Zhaoqianqi FENG)"
+          ],
           "time_periods": [
             {
               "start_date": "2026/03/06",
@@ -3169,7 +3454,9 @@
       "classes": [
         {
           "class_id": "1100",
-          "teachers": ["程建军 (Jianjun CHENG)"],
+          "teachers": [
+            "程建军 (Jianjun CHENG)"
+          ],
           "time_periods": [
             {
               "start_date": "2026/03/02",
@@ -3183,14 +3470,17 @@
         }
       ]
     },
-{
+    {
       "course_code": "ART 1002",
       "course_name": "西方音乐人文阐释",
       "course_department": "ART",
       "classes": [
         {
           "class_id": "1048",
-          "teachers": ["李鹏程 (Pengcheng LI)", "瞿枫 (Feng QU)"],
+          "teachers": [
+            "李鹏程 (Pengcheng LI)",
+            "瞿枫 (Feng QU)"
+          ],
           "time_periods": [
             {
               "start_date": "2026/03/03",
@@ -3211,7 +3501,12 @@
       "classes": [
         {
           "class_id": "1047",
-          "teachers": ["陈亮 (Liang CHEN)", "罗逍然 (Xiaoran LUO)", "高明", "吴戈"],
+          "teachers": [
+            "陈亮 (Liang CHEN)",
+            "罗逍然 (Xiaoran LUO)",
+            "高明",
+            "吴戈"
+          ],
           "time_periods": [
             {
               "start_date": "2026/03/05",
@@ -3232,7 +3527,9 @@
       "classes": [
         {
           "class_id": "1084",
-          "teachers": ["栾体坤"],
+          "teachers": [
+            "栾体坤"
+          ],
           "time_periods": [
             {
               "start_date": "2026/03/05",
@@ -3253,7 +3550,10 @@
       "classes": [
         {
           "class_id": "1046",
-          "teachers": ["党波 波 (Bobo DANG)", "杨丹 (Dan YANG)"],
+          "teachers": [
+            "党波 波 (Bobo DANG)",
+            "杨丹 (Dan YANG)"
+          ],
           "time_periods": [
             {
               "start_date": "2026/03/03",
@@ -3274,7 +3574,10 @@
       "classes": [
         {
           "class_id": "1045",
-          "teachers": ["WOLF DIETER", "XUELIAN LUO"],
+          "teachers": [
+            "WOLF DIETER",
+            "XUELIAN LUO"
+          ],
           "time_periods": [
             {
               "start_date": "2026/03/04",
@@ -3295,7 +3598,10 @@
       "classes": [
         {
           "class_id": "1149",
-          "teachers": ["金鑫 (Xin JIN)", "魏磊 (Lei WEI)"],
+          "teachers": [
+            "金鑫 (Xin JIN)",
+            "魏磊 (Lei WEI)"
+          ],
           "time_periods": [
             {
               "start_date": "2026/03/05",
@@ -3316,7 +3622,9 @@
       "classes": [
         {
           "class_id": "1166",
-          "teachers": ["尤佳 (Jia YOU)"],
+          "teachers": [
+            "尤佳 (Jia YOU)"
+          ],
           "time_periods": [
             {
               "start_date": "2026/03/05",
@@ -3330,7 +3638,9 @@
         },
         {
           "class_id": "1167",
-          "teachers": ["毛艳博 (Yanbo MAO)"],
+          "teachers": [
+            "毛艳博 (Yanbo MAO)"
+          ],
           "time_periods": [
             {
               "start_date": "2026/03/05",
@@ -3344,7 +3654,9 @@
         },
         {
           "class_id": "1168",
-          "teachers": ["尤佳 (Jia YOU)"],
+          "teachers": [
+            "尤佳 (Jia YOU)"
+          ],
           "time_periods": [
             {
               "start_date": "2026/03/03",
@@ -3358,7 +3670,9 @@
         },
         {
           "class_id": "1169",
-          "teachers": ["毛艳博 (Yanbo MAO)"],
+          "teachers": [
+            "毛艳博 (Yanbo MAO)"
+          ],
           "time_periods": [
             {
               "start_date": "2026/03/03",
@@ -3372,7 +3686,9 @@
         },
         {
           "class_id": "1170",
-          "teachers": ["毛艳博 (Yanbo MAO)"],
+          "teachers": [
+            "毛艳博 (Yanbo MAO)"
+          ],
           "time_periods": [
             {
               "start_date": "2026/03/06",
@@ -3386,7 +3702,9 @@
         },
         {
           "class_id": "1337",
-          "teachers": ["尤佳 (Jia YOU)"],
+          "teachers": [
+            "尤佳 (Jia YOU)"
+          ],
           "time_periods": [
             {
               "start_date": "2026/03/06",
@@ -3407,7 +3725,10 @@
       "classes": [
         {
           "class_id": "1173",
-          "teachers": ["尹璐萍 (Luping YIN)", "李小波 (Xiaobo LI)"],
+          "teachers": [
+            "尹璐萍 (Luping YIN)",
+            "李小波 (Xiaobo LI)"
+          ],
           "time_periods": [
             {
               "start_date": "2026/03/04",
@@ -3418,6 +3739,23 @@
             }
           ],
           "classroom": "云谷校区E13-129"
+        },
+        {
+          "class_id": "1347",
+          "teachers": [
+            "尹璐萍 (Luping YIN)",
+            "李小波 (Xiaobo LI)"
+          ],
+          "time_periods": [
+            {
+              "start_date": "2026/03/03",
+              "end_date": "2026/06/16",
+              "weekday": "星期二",
+              "start_time": "16:10",
+              "end_time": "17:45"
+            }
+          ],
+          "classroom": "云谷校区 E13-103"
         }
       ]
     },
@@ -3428,7 +3766,9 @@
       "classes": [
         {
           "class_id": "1050",
-          "teachers": ["陶亮 (Liang TAO)"],
+          "teachers": [
+            "陶亮 (Liang TAO)"
+          ],
           "time_periods": [
             {
               "start_date": "2026/03/06",
@@ -3449,7 +3789,10 @@
       "classes": [
         {
           "class_id": "1049",
-          "teachers": ["付向东 (Xiangdong FU)", "管坤良 (Kunliang GUAN)"],
+          "teachers": [
+            "付向东 (Xiangdong FU)",
+            "管坤良 (Kunliang GUAN)"
+          ],
           "time_periods": [
             {
               "start_date": "2026/03/06",
@@ -3470,7 +3813,10 @@
       "classes": [
         {
           "class_id": "1051",
-          "teachers": ["杨剑 (Jian YANG)", "窦岩梅 (Yanmei DOU)"],
+          "teachers": [
+            "杨剑 (Jian YANG)",
+            "窦岩梅 (Yanmei DOU)"
+          ],
           "time_periods": [
             {
               "start_date": "2026/03/03",
@@ -3491,7 +3837,9 @@
       "classes": [
         {
           "class_id": "1052",
-          "teachers": ["马仙珏 (Xianjue MA)"],
+          "teachers": [
+            "马仙珏 (Xianjue MA)"
+          ],
           "time_periods": [
             {
               "start_date": "2026/03/04",
@@ -3512,7 +3860,9 @@
       "classes": [
         {
           "class_id": "1053",
-          "teachers": ["柴继杰 (Jijie CHAI)"],
+          "teachers": [
+            "柴继杰 (Jijie CHAI)"
+          ],
           "time_periods": [
             {
               "start_date": "2026/03/04",
@@ -3533,7 +3883,9 @@
       "classes": [
         {
           "class_id": "1054",
-          "teachers": ["李波 (Bo LI)"],
+          "teachers": [
+            "李波 (Bo LI)"
+          ],
           "time_periods": [
             {
               "start_date": "2026/03/06",
@@ -3554,7 +3906,9 @@
       "classes": [
         {
           "class_id": "1055",
-          "teachers": ["徐和平 (Heping XU)"],
+          "teachers": [
+            "徐和平 (Heping XU)"
+          ],
           "time_periods": [
             {
               "start_date": "2026/03/05",
@@ -3575,7 +3929,9 @@
       "classes": [
         {
           "class_id": "1139",
-          "teachers": ["申恩志 (Enzhi SHEN)"],
+          "teachers": [
+            "申恩志 (Enzhi SHEN)"
+          ],
           "time_periods": [
             {
               "start_date": "2026/03/03",
@@ -3596,7 +3952,13 @@
       "classes": [
         {
           "class_id": "1148",
-          "teachers": ["毛艳博 (Yanbo MAO)", "张 垲 (Kai ZHANG)", "胡奇 (Qi HU)", "王雅婕 (Yajie WANG)", "郑甲 (Jia ZHENG)"],
+          "teachers": [
+            "毛艳博 (Yanbo MAO)",
+            "张 垲 (Kai ZHANG)",
+            "胡奇 (Qi HU)",
+            "王雅婕 (Yajie WANG)",
+            "郑甲 (Jia ZHENG)"
+          ],
           "time_periods": [
             {
               "start_date": "2026/03/07",
@@ -3605,7 +3967,7 @@
               "start_time": "08:00",
               "end_time": "17:45"
             },
-                        {
+            {
               "start_date": "2026/03/02",
               "end_date": "2026/06/15",
               "weekday": "星期一",
@@ -3624,7 +3986,9 @@
       "classes": [
         {
           "class_id": "1161",
-          "teachers": ["党波 波 (Bobo DANG)"],
+          "teachers": [
+            "党波 波 (Bobo DANG)"
+          ],
           "time_periods": [
             {
               "start_date": "2026/03/04",
@@ -3645,7 +4009,9 @@
       "classes": [
         {
           "class_id": "1162",
-          "teachers": ["PIATKEVICH KIRYL"],
+          "teachers": [
+            "PIATKEVICH KIRYL"
+          ],
           "time_periods": [
             {
               "start_date": "2026/03/06",
@@ -3666,7 +4032,9 @@
       "classes": [
         {
           "class_id": "1163",
-          "teachers": ["裴端卿 (Duanqing PEI)"],
+          "teachers": [
+            "裴端卿 (Duanqing PEI)"
+          ],
           "time_periods": [
             {
               "start_date": "2026/03/02",
@@ -3687,7 +4055,9 @@
       "classes": [
         {
           "class_id": "1164",
-          "teachers": ["边文杰 (Wenjie BIAN)"],
+          "teachers": [
+            "边文杰 (Wenjie BIAN)"
+          ],
           "time_periods": [
             {
               "start_date": "2026/03/04",
@@ -3708,7 +4078,9 @@
       "classes": [
         {
           "class_id": "1165",
-          "teachers": ["郑甲 (Jia ZHENG)"],
+          "teachers": [
+            "郑甲 (Jia ZHENG)"
+          ],
           "time_periods": [
             {
               "start_date": "2026/03/03",
@@ -3729,7 +4101,9 @@
       "classes": [
         {
           "class_id": "1171",
-          "teachers": ["俞晓春 (Xiaochun YU)"],
+          "teachers": [
+            "俞晓春 (Xiaochun YU)"
+          ],
           "time_periods": [
             {
               "start_date": "2026/03/03",
@@ -3750,7 +4124,9 @@
       "classes": [
         {
           "class_id": "1172",
-          "teachers": ["朱听 (Ting ZHU)"],
+          "teachers": [
+            "朱听 (Ting ZHU)"
+          ],
           "time_periods": [
             {
               "start_date": "2026/03/03",
@@ -3771,7 +4147,9 @@
       "classes": [
         {
           "class_id": "1201",
-          "teachers": ["卢培龙 (Peilong LU)"],
+          "teachers": [
+            "卢培龙 (Peilong LU)"
+          ],
           "time_periods": [
             {
               "start_date": "2026/03/05",
@@ -3792,7 +4170,9 @@
       "classes": [
         {
           "class_id": "1202",
-          "teachers": ["杨培国 (Peiguo YANG)"],
+          "teachers": [
+            "杨培国 (Peiguo YANG)"
+          ],
           "time_periods": [
             {
               "start_date": "2026/03/02",
@@ -3813,7 +4193,9 @@
       "classes": [
         {
           "class_id": "1203",
-          "teachers": ["李大鹏 (Dapeng LI)"],
+          "teachers": [
+            "李大鹏 (Dapeng LI)"
+          ],
           "time_periods": [
             {
               "start_date": "2026/03/02",
@@ -3834,7 +4216,9 @@
       "classes": [
         {
           "class_id": "1144",
-          "teachers": ["吴连锋 (Lianfeng WU)"],
+          "teachers": [
+            "吴连锋 (Lianfeng WU)"
+          ],
           "time_periods": [
             {
               "start_date": "2026/03/05",
@@ -3855,9 +4239,10 @@
       "classes": [
         {
           "class_id": "1150",
-          "teachers": ["黄晶 (Jing HUANG)"],
+          "teachers": [
+            "黄晶 (Jing HUANG)"
+          ],
           "time_periods": [
-            
             {
               "start_date": "2026/03/03",
               "end_date": "2026/06/16",
@@ -3870,14 +4255,16 @@
         }
       ]
     },
-{
+    {
       "course_code": "BIO 4812",
       "course_name": "流行病学导论",
       "course_department": "BIO",
       "classes": [
         {
           "class_id": "1151",
-          "teachers": ["郑钜圣 (Jusheng ZHENG)"],
+          "teachers": [
+            "郑钜圣 (Jusheng ZHENG)"
+          ],
           "time_periods": [
             {
               "start_date": "2026/03/05",
@@ -3898,7 +4285,9 @@
       "classes": [
         {
           "class_id": "1152",
-          "teachers": ["张延晓 (Yanxiao ZHANG)"],
+          "teachers": [
+            "张延晓 (Yanxiao ZHANG)"
+          ],
           "time_periods": [
             {
               "start_date": "2026/03/02",
@@ -3919,7 +4308,9 @@
       "classes": [
         {
           "class_id": "1153",
-          "teachers": ["张延晓 (Yanxiao ZHANG)"],
+          "teachers": [
+            "张延晓 (Yanxiao ZHANG)"
+          ],
           "time_periods": [
             {
               "start_date": "2026/03/05",
@@ -3940,7 +4331,9 @@
       "classes": [
         {
           "class_id": "1154",
-          "teachers": ["郭天南 (Tiannan GUO)"],
+          "teachers": [
+            "郭天南 (Tiannan GUO)"
+          ],
           "time_periods": [
             {
               "start_date": "2026/03/02",
@@ -3961,7 +4354,9 @@
       "classes": [
         {
           "class_id": "1204",
-          "teachers": ["张兵 (Bing ZHANG)"],
+          "teachers": [
+            "张兵 (Bing ZHANG)"
+          ],
           "time_periods": [
             {
               "start_date": "2026/03/03",
@@ -3982,7 +4377,9 @@
       "classes": [
         {
           "class_id": "1017",
-          "teachers": ["江小佳 (Xiaojia JIANG)"],
+          "teachers": [
+            "江小佳 (Xiaojia JIANG)"
+          ],
           "time_periods": [
             {
               "start_date": "2026/03/05",
@@ -3996,7 +4393,9 @@
         },
         {
           "class_id": "1018",
-          "teachers": ["江小佳 (Xiaojia JIANG)"],
+          "teachers": [
+            "江小佳 (Xiaojia JIANG)"
+          ],
           "time_periods": [
             {
               "start_date": "2026/03/05",
@@ -4017,7 +4416,9 @@
       "classes": [
         {
           "class_id": "1021",
-          "teachers": ["张鑫 (Xin ZHANG)"],
+          "teachers": [
+            "张鑫 (Xin ZHANG)"
+          ],
           "time_periods": [
             {
               "start_date": "2026/03/05",
@@ -4052,7 +4453,9 @@
       "classes": [
         {
           "class_id": "1038",
-          "teachers": ["王盼 (Pan WANG)"],
+          "teachers": [
+            "王盼 (Pan WANG)"
+          ],
           "time_periods": [
             {
               "start_date": "2026/03/03",
@@ -4080,7 +4483,9 @@
       "classes": [
         {
           "class_id": "1041",
-          "teachers": ["CHRYSTALLENI HADJICHARALAMBOUS"],
+          "teachers": [
+            "CHRYSTALLENI HADJICHARALAMBOUS"
+          ],
           "time_periods": [
             {
               "start_date": "2026/03/06",
@@ -4108,7 +4513,9 @@
       "classes": [
         {
           "class_id": "1056",
-          "teachers": ["洪本科 (Benke HONG)"],
+          "teachers": [
+            "洪本科 (Benke HONG)"
+          ],
           "time_periods": [
             {
               "start_date": "2026/03/06",
@@ -4136,7 +4543,9 @@
       "classes": [
         {
           "class_id": "1057",
-          "teachers": ["Tan Karen"],
+          "teachers": [
+            "Tan Karen"
+          ],
           "time_periods": [
             {
               "start_date": "2026/03/03",
@@ -4157,7 +4566,9 @@
       "classes": [
         {
           "class_id": "1058",
-          "teachers": ["江小佳 (Xiaojia JIANG)"],
+          "teachers": [
+            "江小佳 (Xiaojia JIANG)"
+          ],
           "time_periods": [
             {
               "start_date": "2026/03/02",
@@ -4178,7 +4589,9 @@
       "classes": [
         {
           "class_id": "1019",
-          "teachers": ["陈波"],
+          "teachers": [
+            "陈波"
+          ],
           "time_periods": [
             {
               "start_date": "2026/03/03",
@@ -4199,7 +4612,9 @@
       "classes": [
         {
           "class_id": "1103",
-          "teachers": ["杨肖 (Xiao YANG)"],
+          "teachers": [
+            "杨肖 (Xiao YANG)"
+          ],
           "time_periods": [
             {
               "start_date": "2026/03/04",
@@ -4220,7 +4635,9 @@
       "classes": [
         {
           "class_id": "1101",
-          "teachers": ["杨健 (Jian YANG)"],
+          "teachers": [
+            "杨健 (Jian YANG)"
+          ],
           "time_periods": [
             {
               "start_date": "2026/03/02",
@@ -4241,7 +4658,9 @@
       "classes": [
         {
           "class_id": "1109",
-          "teachers": ["金泽鑫 (Zexin JIN)"],
+          "teachers": [
+            "金泽鑫 (Zexin JIN)"
+          ],
           "time_periods": [
             {
               "start_date": "2026/03/02",
@@ -4262,7 +4681,9 @@
       "classes": [
         {
           "class_id": "1179",
-          "teachers": ["林海松 (Haisong LIN)"],
+          "teachers": [
+            "林海松 (Haisong LIN)"
+          ],
           "time_periods": [
             {
               "start_date": "2026/03/03",
@@ -4283,7 +4704,9 @@
       "classes": [
         {
           "class_id": "1205",
-          "teachers": ["弓烨弘 (Yehong GONG)"],
+          "teachers": [
+            "弓烨弘 (Yehong GONG)"
+          ],
           "time_periods": [
             {
               "start_date": "2026/03/03",
@@ -4297,7 +4720,9 @@
         },
         {
           "class_id": "1206",
-          "teachers": ["白刚 (Gang BAI)"],
+          "teachers": [
+            "白刚 (Gang BAI)"
+          ],
           "time_periods": [
             {
               "start_date": "2026/03/03",
@@ -4318,7 +4743,9 @@
       "classes": [
         {
           "class_id": "1085",
-          "teachers": ["弓烨弘 (Yehong GONG)"],
+          "teachers": [
+            "弓烨弘 (Yehong GONG)"
+          ],
           "time_periods": [
             {
               "start_date": "2026/03/05",
@@ -4339,7 +4766,9 @@
       "classes": [
         {
           "class_id": "1086",
-          "teachers": ["弓烨弘 (Yehong GONG)"],
+          "teachers": [
+            "弓烨弘 (Yehong GONG)"
+          ],
           "time_periods": [
             {
               "start_date": "2026/03/02",
@@ -4360,7 +4789,9 @@
       "classes": [
         {
           "class_id": "1087",
-          "teachers": ["弓烨弘 (Yehong GONG)"],
+          "teachers": [
+            "弓烨弘 (Yehong GONG)"
+          ],
           "time_periods": [
             {
               "start_date": "2026/03/03",
@@ -4381,7 +4812,9 @@
       "classes": [
         {
           "class_id": "1088",
-          "teachers": ["弓烨弘 (Yehong GONG)"],
+          "teachers": [
+            "弓烨弘 (Yehong GONG)"
+          ],
           "time_periods": [
             {
               "start_date": "2026/03/02",
@@ -4402,7 +4835,9 @@
       "classes": [
         {
           "class_id": "1089",
-          "teachers": ["张烨 (Ye ZHANG)"],
+          "teachers": [
+            "张烨 (Ye ZHANG)"
+          ],
           "time_periods": [
             {
               "start_date": "2026/03/06",
@@ -4416,7 +4851,9 @@
         },
         {
           "class_id": "1090",
-          "teachers": ["张烨 (Ye ZHANG)"],
+          "teachers": [
+            "张烨 (Ye ZHANG)"
+          ],
           "time_periods": [
             {
               "start_date": "2026/03/05",
@@ -4437,7 +4874,9 @@
       "classes": [
         {
           "class_id": "1091",
-          "teachers": ["张烨 (Ye ZHANG)"],
+          "teachers": [
+            "张烨 (Ye ZHANG)"
+          ],
           "time_periods": [
             {
               "start_date": "2026/03/05",
@@ -4458,7 +4897,9 @@
       "classes": [
         {
           "class_id": "1092",
-          "teachers": ["张烨 (Ye ZHANG)"],
+          "teachers": [
+            "张烨 (Ye ZHANG)"
+          ],
           "time_periods": [
             {
               "start_date": "2026/03/03",
@@ -4479,7 +4920,9 @@
       "classes": [
         {
           "class_id": "1093",
-          "teachers": ["张烨 (Ye ZHANG)"],
+          "teachers": [
+            "张烨 (Ye ZHANG)"
+          ],
           "time_periods": [
             {
               "start_date": "2026/03/04",
@@ -4493,7 +4936,9 @@
         },
         {
           "class_id": "1094",
-          "teachers": ["张烨 (Ye ZHANG)"],
+          "teachers": [
+            "张烨 (Ye ZHANG)"
+          ],
           "time_periods": [
             {
               "start_date": "2026/03/06",
@@ -4504,6 +4949,174 @@
             }
           ],
           "classroom": "云谷校区 H5-105 舞蹈室"
+        }
+      ]
+    },
+    {
+      "course_code": "BIO 3023",
+      "course_name": "交叉学科前沿专题（生物科学）",
+      "course_department": "生物科学",
+      "classes": [
+        {
+          "class_id": "1344",
+          "teachers": [
+            "杨剑 (Jian YANG)",
+            "柳舒航 (Shuhang LIU)"
+          ],
+          "time_periods": [
+            {
+              "start_date": "2026/03/02",
+              "end_date": "2026/06/24",
+              "weekday": "待定",
+              "start_time": "待定",
+              "end_time": "待定"
+            }
+          ],
+          "classroom": "待定"
+        }
+      ]
+    },
+    {
+      "course_code": "CHEM 3021",
+      "course_name": "交叉学科前沿专题（化学）",
+      "course_department": "化学",
+      "classes": [
+        {
+          "class_id": "1341",
+          "teachers": [
+            "陈瑞雪 (Ruixue CHEN)",
+            "蒋茹 (Ru JIANG)",
+            "邓力 (Li DENG)"
+          ],
+          "time_periods": [
+            {
+              "start_date": "2026/03/02",
+              "end_date": "2026/06/24",
+              "weekday": "待定",
+              "start_time": "待定",
+              "end_time": "待定"
+            }
+          ],
+          "classroom": "待定"
+        }
+      ]
+    },
+    {
+      "course_code": "EST 3022",
+      "course_name": "交叉学科前沿专题（电子信息工程）",
+      "course_department": "电子信息工程",
+      "classes": [
+        {
+          "class_id": "1343",
+          "teachers": [
+            "李兰 (Lan LI)",
+            "沈佩悦"
+          ],
+          "time_periods": [
+            {
+              "start_date": "2026/03/02",
+              "end_date": "2026/06/24",
+              "weekday": "待定",
+              "start_time": "待定",
+              "end_time": "待定"
+            }
+          ],
+          "classroom": "待定"
+        }
+      ]
+    },
+    {
+      "course_code": "PHE 1027",
+      "course_name": "体育 -游泳（初级）",
+      "course_department": "体育",
+      "classes": [
+        {
+          "class_id": "1350",
+          "teachers": [
+            "宋延安"
+          ],
+          "time_periods": [
+            {
+              "start_date": "2026/03/02",
+              "end_date": "2026/06/19",
+              "weekday": "星期一",
+              "start_time": "13:30",
+              "end_time": "15:05"
+            }
+          ],
+          "classroom": "游泳池"
+        },
+        {
+          "class_id": "1351",
+          "teachers": [
+            "宋延安"
+          ],
+          "time_periods": [
+            {
+              "start_date": "2026/03/02",
+              "end_date": "2026/06/19",
+              "weekday": "星期二",
+              "start_time": "13:30",
+              "end_time": "15:05"
+            }
+          ],
+          "classroom": "游泳池"
+        },
+        {
+          "class_id": "1352",
+          "teachers": [
+            "宋延安"
+          ],
+          "time_periods": [
+            {
+              "start_date": "2026/03/02",
+              "end_date": "2026/06/19",
+              "weekday": "星期四",
+              "start_time": "13:30",
+              "end_time": "15:05"
+            }
+          ],
+          "classroom": "游泳池"
+        },
+        {
+          "class_id": "1353",
+          "teachers": [
+            "宋延安"
+          ],
+          "time_periods": [
+            {
+              "start_date": "2026/03/02",
+              "end_date": "2026/06/19",
+              "weekday": "星期五",
+              "start_time": "13:30",
+              "end_time": "15:05"
+            }
+          ],
+          "classroom": "游泳池"
+        }
+      ]
+    },
+    {
+      "course_code": "PHY 3020",
+      "course_name": "交叉学科前沿专题（物理学）",
+      "course_department": "物理学",
+      "classes": [
+        {
+          "class_id": "1340",
+          "teachers": [
+            "罗睿晗",
+            "朱伟 (Wei ZHU)"
+          ],
+          "time_periods": [
+            {
+              "start_date": "2026/03/02",
+              "end_date": "2026/06/24",
+              "weekday": "待定",
+              "start_time": "待定",
+              "end_time": "待定"
+            }
+          ],
+          "classroom": "待定"
         }
       ]
     }
