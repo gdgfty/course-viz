@@ -4955,7 +4955,7 @@
     {
       "course_code": "BIO 3023",
       "course_name": "交叉学科前沿专题（生物科学）",
-      "course_department": "生物科学",
+      "course_department": "BIO",
       "classes": [
         {
           "class_id": "1344",
@@ -4979,7 +4979,7 @@
     {
       "course_code": "CHEM 3021",
       "course_name": "交叉学科前沿专题（化学）",
-      "course_department": "化学",
+      "course_department": "CHEM",
       "classes": [
         {
           "class_id": "1341",
@@ -5004,7 +5004,7 @@
     {
       "course_code": "EST 3022",
       "course_name": "交叉学科前沿专题（电子信息工程）",
-      "course_department": "电子信息工程",
+      "course_department": "EST",
       "classes": [
         {
           "class_id": "1343",
@@ -5028,7 +5028,7 @@
     {
       "course_code": "PHE 1027",
       "course_name": "体育 -游泳（初级）",
-      "course_department": "体育",
+      "course_department": "PHE",
       "classes": [
         {
           "class_id": "1350",
@@ -5099,7 +5099,7 @@
     {
       "course_code": "PHY 3020",
       "course_name": "交叉学科前沿专题（物理学）",
-      "course_department": "物理学",
+      "course_department": "PHY",
       "classes": [
         {
           "class_id": "1340",
